@@ -68,7 +68,76 @@
 </ul>
 <p>&nbsp;</p>
 
-
+<table>
+<tbody>
+<tr>
+<td width="205">
+<p>print("hello"*3)</p>
+</td>
+<td width="184">
+<p><strong>hellohellohello</strong></p>
+</td>
+<td width="171">
+<p>repetition</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>print("hello"+"world")</p>
+</td>
+<td width="184">
+<p><strong>helloworld</strong></p>
+</td>
+<td width="171">
+<p>concatenation</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>print("hello"[0])</p>
+</td>
+<td width="184">
+<p><strong>h</strong></p>
+</td>
+<td width="171">
+<p>indexing</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>print("hello"[-1])</p>
+</td>
+<td width="184">
+<p><strong>o</strong></p>
+</td>
+<td width="171">
+<p>from end</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>print("hello"[1:4])</p>
+</td>
+<td width="184">
+<p><strong>ell</strong></p>
+</td>
+<td width="171">
+<p>slicing</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>print(len("hello"))</p>
+</td>
+<td width="184">
+<p><strong>5</strong></p>
+</td>
+<td width="171">
+<p>size</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
