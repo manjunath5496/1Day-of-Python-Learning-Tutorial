@@ -143,10 +143,29 @@
 <h3> Code: </h3>
 
 ```python
-if 5 > 2:
+if 4 > 3:
   print("Four is greater than three!") 
 ```
 <h3> Output on the screen:</h3>
 
 <pre> Four is greater than three! </pre>
+<br>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+if 4 > 3:
+print("Four is greater than three!") 
+```
+<h3> Output on the screen:</h3>
+
+<pre> print("Four is greater than three!")
+        ^
+IndentationError: expected an indented block </pre>
+
+
+
+
+
 
