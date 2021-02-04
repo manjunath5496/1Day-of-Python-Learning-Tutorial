@@ -163,8 +163,8 @@ print("Four is greater than three!")
 <pre> print("Four is greater than three!")
        ^
 IndentationError: expected an indented block </pre>
-
-<a href="#back"><span class="toctext">Back</span></a>
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
 
 
 
