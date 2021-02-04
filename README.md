@@ -161,7 +161,7 @@ print("Four is greater than three!")
 <h3> Output on the screen:</h3>
 
 <pre> print("Four is greater than three!")
-        ^
+       ^
 IndentationError: expected an indented block </pre>
 
 
