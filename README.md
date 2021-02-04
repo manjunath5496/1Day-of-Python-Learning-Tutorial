@@ -140,8 +140,13 @@
 </table>
 </br>
 <h2 id="Python Indentation"> Python Indentation </h2>
+<h3> Code: </h3>
 
+```python
+if 5 > 2:
+  print("Four is greater than three!") 
+```
+<h3> Output on the screen:</h3>
 
-
-
+<pre> Four is greater than three! </pre>
 
