@@ -231,7 +231,6 @@ print(c)
 <h3> Output on the screen:</h3>
 
 <pre>
-Tree
 Chair
 Chair
 Chair </pre>
