@@ -10,7 +10,9 @@
 <li class="toclevel-1 tocsection-4"><a href="#Python Variables"><span class="toctext">Python Variables </span></a></li>  
 <li class="toclevel-1 tocsection-5"><a href="#Python Data Types"><span class="toctext">Python Data Types </span></a></li>   
 <li class="toclevel-1 tocsection-6"><a href="#Python Numbers"><span class="toctext">Python Numbers </span></a></li>    
- <li class="toclevel-1 tocsection-7"><a href="#Python Casting "><span class="toctext">Python Casting </span></a></li>   
+ <li class="toclevel-1 tocsection-7"><a href="#Python Casting"><span class="toctext">Python Casting </span></a></li> 
+  <li class="toclevel-1 tocsection-8"><a href="#Python Strings"><span class="toctext">Python Strings </span></a></li> 
+ 
 </ul>
 
 </br>
@@ -547,3 +549,55 @@ s1
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
+<h2 id="Python Strings"> Python Strings  </h2>
+<h3> Code: </h3>
+
+```python
+a = "Hello" 
+b = """Python """ 
+c = '''Python''' 
+print(a)
+print(b)
+print(c)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Hello
+Python 
+Python </pre>
+<br>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+#Get the character at position 0
+a = "Hello, World!"
+print(a[0])
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+H </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+for a in "Chair":
+  print(a) 
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+C
+h
+a
+i
+r</pre>
+<hr>
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
