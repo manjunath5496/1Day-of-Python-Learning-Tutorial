@@ -733,6 +733,17 @@ print(b[-3])
 T</pre>
 <hr>
 
+<h3> Code: </h3>
+
+```python
+b = "NEWTON"
+print(b[2:5])
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+WTO</pre>
+<hr>
 
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
