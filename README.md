@@ -1183,5 +1183,107 @@ False </pre>
 </tr>
 </tbody>
 </table>
-
-
+</br>
+<ul>
+<li><strong>Comparison Operators</strong></li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="121">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Operator</strong></p>
+</td>
+<td width="144">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Name</strong></p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Example</strong></p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p><strong>&nbsp;</strong></p>
+<p>==</p>
+</td>
+<td width="144">
+<p><strong>&nbsp;</strong></p>
+<p>Equal</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x == y</p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p><strong>&nbsp;</strong></p>
+<p>!=</p>
+</td>
+<td width="144">
+<p><strong>&nbsp;</strong></p>
+<p>Not equal</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x != y</p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p><strong>&nbsp;</strong></p>
+<p>&gt;&nbsp;</p>
+</td>
+<td width="144">
+<p><strong>&nbsp;</strong></p>
+<p>Greater than</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x &gt; y</p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p><strong>&nbsp;</strong></p>
+<p>&lt;&nbsp;</p>
+</td>
+<td width="144">
+<p><strong>&nbsp;</strong></p>
+<p>Less than</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x &lt; y</p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p>&nbsp;</p>
+<p>&gt;=</p>
+</td>
+<td width="144">
+<p>Greater than or equal to</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong>x&gt;=y</p>
+</td>
+</tr>
+<tr>
+<td width="121">
+<p>&nbsp;</p>
+<p>&lt;=</p>
+</td>
+<td width="144">
+<p>Less than or equal to</p>
+</td>
+<td width="126">
+<p>x&lt;=y</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
