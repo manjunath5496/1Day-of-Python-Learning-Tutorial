@@ -10,7 +10,7 @@
 <li class="toclevel-1 tocsection-4"><a href="#Python Variables"><span class="toctext">Python Variables </span></a></li>  
 <li class="toclevel-1 tocsection-5"><a href="#Python Data Types"><span class="toctext">Python Data Types </span></a></li>   
 <li class="toclevel-1 tocsection-6"><a href="#Python Numbers"><span class="toctext">Python Numbers </span></a></li>    
-  
+ <li class="toclevel-1 tocsection-7"><a href="#Python Casting "><span class="toctext">Python Casting </span></a></li>   
 </ul>
 
 </br>
@@ -485,6 +485,65 @@ print(random.randrange(1, 10))
 <pre> 7 </pre>
 
 <hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+<h2 id="Python Casting"> Python Casting  </h2>
+<h3> Code: </h3>
+
+```python
+a = int(1)   # a will be 1
+b = int(2.8) # b will be 2
+c = int("3") # c will be 3 
+print(a)
+print(b)
+print(c)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+1
+2
+3 </pre>
+<br>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+a = float(1)     # a will be 1.0
+b = float(2.8)   # b will be 2.8
+c = float("3")   # c will be 3.0
+print(a)
+print(b)
+print(c)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+1.0
+2.8
+3.0 </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+a = str("s1") # a will be s1
+b = str(2)    # b will be 2
+c = str(3.0)  # c will be 3.0
+print(a)
+print(b)
+print(c)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+s1
+2
+3.0 </pre>
+<hr>
+
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
