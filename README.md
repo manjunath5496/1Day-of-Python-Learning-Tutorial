@@ -415,9 +415,58 @@ print(type(a))
 <p>set</p>
 </td>
 </tr>
+<tr>
+<td style="width: 334px;">
+<p>&nbsp;</p>
+<p>a&nbsp;= frozenset({"Tree", "Chair", "bench"})</p>
+</td>
+<td style="width: 114px;">
+<p>&nbsp;</p>
+<p>frozenset</p>
+</td>
+</tr>
+<tr>
+<td style="width: 334px;">
+<p>&nbsp;</p>
+<p>a&nbsp;= True</p>
+</td>
+<td style="width: 114px;">
+<p>&nbsp;</p>
+<p>bool</p>
+</td>
+</tr>
+<tr>
+<td style="width: 334px;">
+<p>&nbsp;</p>
+<p>a&nbsp;= b"Hello"</p>
+</td>
+<td style="width: 114px;">
+<p>&nbsp;</p>
+<p>bytes</p>
+</td>
+</tr>
+<tr>
+<td style="width: 334px;">
+<p>&nbsp;</p>
+<p>a&nbsp;= bytearray(5)</p>
+</td>
+<td style="width: 114px;">
+<p>&nbsp;</p>
+<p>bytearray</p>
+</td>
+</tr>
+<tr>
+<td style="width: 334px;">
+<p>&nbsp;</p>
+<p>a&nbsp;= memoryview(bytes(5))</p>
+</td>
+<td style="width: 114px;">
+<p>&nbsp;</p>
+<p>memoryview</p>
+</td>
+</tr>
 </tbody>
 </table>
-
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
