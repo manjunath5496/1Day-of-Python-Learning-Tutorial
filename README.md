@@ -1494,10 +1494,12 @@ print(a // b)
 <h3> Code: </h3>
 
 ```python
-# returns True because 4 is greater than 3 AND 4 is less than 9
+
 a = 4
 
 print(a > 3 and a < 9)
+# returns True because 4 is greater than 3 AND 4 is less than 9
+
 ```
 <h3> Output on the screen:</h3>
 
