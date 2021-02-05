@@ -1538,6 +1538,21 @@ print("Car" not in a)
 <pre> 
 True</pre>
 <hr>
+<h3> Code: </h3>
+
+```python
+a = 6
+
+a += 2 # same as a = a + 2
+
+print(a)  
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+8</pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
