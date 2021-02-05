@@ -195,7 +195,8 @@ print(b)
 ```
 <h3> Output on the screen:</h3>
 
-<pre> 5
+<pre> 
+5
 Python </pre>
 <br>
 <hr>
@@ -210,7 +211,8 @@ print(c)
 ```
 <h3> Output on the screen:</h3>
 
-<pre> Tree
+<pre>
+Tree
 Chair
 bench </pre>
 
@@ -228,7 +230,8 @@ print(c)
 ```
 <h3> Output on the screen:</h3>
 
-<pre> Tree
+<pre>
+Tree
 Chair
 Chair
 Chair </pre>
@@ -293,10 +296,6 @@ myfunc()
 <h3> Output on the screen:</h3>
 
 <pre> Python is easy to understand </pre>
-
-
-
-
 
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
