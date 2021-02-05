@@ -170,7 +170,7 @@ IndentationError: expected an indented block </pre>
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
-<h2 id="Python Comments "> Python Comments </h2>
+<h2 id="Python Comments"> Python Comments </h2>
 <h3> Code: </h3>
 
 ```python
