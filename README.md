@@ -712,17 +712,26 @@ Yes, 'newton' is NOT present.</pre>
 <h3> Code: </h3>
 
 ```python
-# Get the characters from position 2 to position 5 (position 2 not included):
-b = "Hello"
-print(b[2:5])
+b = "NEWTON"
+print(b[4])
 ```
 <h3> Output on the screen:</h3>
 
 <pre> 
-llo</pre>
+O</pre>
 <hr>
 
+<h3> Code: </h3>
 
+```python
+b = "NEWTON"
+print(b[-3])
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+T</pre>
+<hr>
 
 
 
