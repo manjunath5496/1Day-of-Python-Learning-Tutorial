@@ -758,5 +758,25 @@ print(b[2:])
 NEWTO
 WTON</pre>
 <hr>
+
+
+<h3> Code: </h3>
+
+```python
+#count the number of times the character 'N' appears:
+b = "NEWTON"
+print(b.count("N"))
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+2</pre>
+<hr>
+
+
+
+
+
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
