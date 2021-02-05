@@ -979,10 +979,10 @@ False </pre>
 </tr>
 </tbody>
 </table>
-
+</br>
 <ul>
 <li><strong>Assignment Operators</strong></li>
-</ul>
+</ul></br>
 <table>
 <tbody>
 <tr>
