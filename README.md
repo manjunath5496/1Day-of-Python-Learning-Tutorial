@@ -666,6 +666,18 @@ if "newton" not in txt:
 Yes, 'newton' is NOT present.</pre>
 <hr>
 
+<h3> Code: </h3>
+
+```python
+# Get the characters from position 2 to position 5 (position 2 not included):
+b = "Hello"
+print(b[2:5])
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+llo</pre>
+<hr>
 
 
 
