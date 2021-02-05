@@ -309,7 +309,7 @@ print(type(a))
 ```
 <h3> Output on the screen:</h3>
 
-<pre> <class 'int'> </pre>
+ <class 'int'>
 <br>
 <hr>
 <table style="width: 462px;">
