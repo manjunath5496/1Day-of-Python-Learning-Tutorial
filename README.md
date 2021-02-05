@@ -9,7 +9,7 @@
 <li class="toclevel-1 tocsection-3"><a href="#Python Comments"><span class="toctext">Python Comments </span></a></li>
 <li class="toclevel-1 tocsection-4"><a href="#Python Variables"><span class="toctext">Python Variables </span></a></li>  
 <li class="toclevel-1 tocsection-5"><a href="#Python Data Types"><span class="toctext">Python Data Types </span></a></li>   
-  
+<li class="toclevel-1 tocsection-6"><a href="#Python Numbers"><span class="toctext">Python Numbers </span></a></li>    
   
 </ul>
 
@@ -469,6 +469,22 @@ print(type(a))
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id="Python Numbers">Python Numbers </h2>
 
+<h3> Code: </h3>
 
+```python
+# Display a random number between 1 and 9:
+
+import random 
+print(random.randrange(1, 10)) 
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 7 </pre>
+
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
 
