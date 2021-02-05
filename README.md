@@ -12,6 +12,8 @@
 <li class="toclevel-1 tocsection-6"><a href="#Python Numbers"><span class="toctext">Python Numbers </span></a></li>    
  <li class="toclevel-1 tocsection-7"><a href="#Python Casting"><span class="toctext">Python Casting </span></a></li> 
   <li class="toclevel-1 tocsection-8"><a href="#Python Strings"><span class="toctext">Python Strings </span></a></li> 
+ <li class="toclevel-1 tocsection-9"><a href="#Python Booleans "><span class="toctext">Python Booleans  </span></a></li> 
+ 
  
 </ul>
 
@@ -833,9 +835,30 @@ print(b.upper())
 albert einstein
 ALBERT EINSTEIN</pre>
 <hr>
-
-
-
-
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+
+<h2 id="Python Booleans"> Python Booleans  </h2>
+<h3> Code: </h3>
+
+```python
+print(10 > 9)
+print(10 == 9)
+print(10 < 9)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+True 
+False 
+False </pre>
+<br>
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+
+
+
+
