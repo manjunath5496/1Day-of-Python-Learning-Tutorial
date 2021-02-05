@@ -1491,6 +1491,19 @@ print(a // b)
 <pre> 
 8</pre>
 <hr>
+<h3> Code: </h3>
+
+```python
+# returns True because 4 is greater than 3 AND 4 is less than 9
+a = 4
+
+print(a > 3 and a < 9)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+True</pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
