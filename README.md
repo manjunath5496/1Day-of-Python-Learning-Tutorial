@@ -598,6 +598,78 @@ i
 r</pre>
 <hr>
 
+<h3> Code: </h3>
+
+```python
+# get the length of a string
+a = "Hello"
+print(len(a))
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+5</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Check if "was" is present in the following text:
+txt = "Albert Einstein was a German-born theoretical physicist."
+print("was" in txt)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+True</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Print only if "Einstein" is present:
+txt = "Albert Einstein was a German-born theoretical physicist."
+if "Einstein" in txt:
+  print("Yes, 'Einstein' is present.")
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Yes, 'Einstein' is present.</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Check if "newton" is NOT present in the following text:
+txt = "Albert Einstein was a German-born theoretical physicist."
+print("newton" not in txt)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+True</pre>
+<hr>
+
+
+<h3> Code: </h3>
+
+```python
+# print only if "newton" is NOT present:
+txt = "Albert Einstein was a German-born theoretical physicist."
+if "newton" not in txt:
+  print("Yes, 'newton' is NOT present.")
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Yes, 'newton' is NOT present.</pre>
+<hr>
+
+
+
+
+
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
