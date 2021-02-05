@@ -7,7 +7,7 @@
 <li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="toctext">Introduction</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Python Indentation"><span class="toctext">Python Indentation</span></a></li>
 <li class="toclevel-1 tocsection-3"><a href="#Python Comments"><span class="toctext">Python Comments </span></a></li>
-  
+<li class="toclevel-1 tocsection-4"><a href="#Python Variables"><span class="toctext">Python Variables </span></a></li>  
   
   
   
@@ -184,4 +184,120 @@ print("Hello, World!")
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
+<h2 id="Python Variables"> Python Variables </h2>
+<h3> Code: </h3>
 
+```python
+a = 5
+b = "Python"
+print(a)
+print(b) 
+```
+<h3> Output on the screen:</h3>
+
+<pre> 5
+Python </pre>
+<br>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+a, b, c = "Tree", "Chair", "bench" 
+print(a)
+print(b) 
+print(c) 
+```
+<h3> Output on the screen:</h3>
+
+<pre> Tree
+Chair
+bench </pre>
+
+<br>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+a = b = c = "Chair" 
+print(a)
+print(b) 
+print(c)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> Tree
+Chair
+Chair
+Chair </pre>
+
+<br>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+a = "easy to understand" 
+print("Python is " + a)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> Python is easy to understand </pre>
+
+<br>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+a = 4
+b = 3
+print(a + b)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 7 </pre>
+<br>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+a = 6
+b = "Python" 
+print(a + b)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> TypeError: unsupported operand type(s) for +: 'int' and 'str' </pre>
+
+<br>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+a = "easy to understand"
+
+def myfunc(): 
+ print("Python is " + a)
+
+myfunc()
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> Python is easy to understand </pre>
+
+
+
+
+
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
