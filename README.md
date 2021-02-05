@@ -8,7 +8,7 @@
 <li class="toclevel-1 tocsection-2"><a href="#Python Indentation"><span class="toctext">Python Indentation</span></a></li>
 <li class="toclevel-1 tocsection-3"><a href="#Python Comments"><span class="toctext">Python Comments </span></a></li>
 <li class="toclevel-1 tocsection-4"><a href="#Python Variables"><span class="toctext">Python Variables </span></a></li>  
-  
+<li class="toclevel-1 tocsection-5"><a href="#Python Data Types"><span class="toctext">Python Data Types </span></a></li>   
   
   
 </ul>
@@ -299,3 +299,23 @@ myfunc()
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id="Python Data Types"> Python Data Types </h2>
+<h3> Code: </h3>
+
+```python
+# Print the data type of the variable a:
+a = 5 
+print(type(a))
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+<class 'int'> </pre>
+<br>
+<hr>
+
+
+
+
+
+
