@@ -1463,6 +1463,19 @@ print(a ** b) #same as 2*2*2*2
 <pre> 
 16</pre>
 <hr>
+<h3> Code: </h3>
+
+```python
+x = 4
+y = 2
+
+print(x % y)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+0</pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
