@@ -286,6 +286,38 @@ print(a + b)
 <h3> Code: </h3>
 
 ```python
+a = "Hello"
+b = "World"
+c = a + b
+print(c)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> HelloWorld </pre>
+
+<br>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+a = "Hello"
+b = "World"
+c = a + " " + b
+print(c)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> Hello World </pre>
+
+<br>
+<hr>
+
+<h3> Code: </h3>
+
+```python
 a = "easy to understand"
 
 def myfunc(): 
