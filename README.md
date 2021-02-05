@@ -1476,6 +1476,21 @@ print(x % y)
 <pre> 
 0</pre>
 <hr>
+<h3> Code: </h3>
+
+```python
+#the floor division // rounds the result down to the nearest whole number
+
+a = 17
+b = 2
+
+print(a // b)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+8</pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
