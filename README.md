@@ -12,8 +12,8 @@
 <li class="toclevel-1 tocsection-6"><a href="#Python Numbers"><span class="toctext">Python Numbers </span></a></li>    
  <li class="toclevel-1 tocsection-7"><a href="#Python Casting"><span class="toctext">Python Casting </span></a></li> 
   <li class="toclevel-1 tocsection-8"><a href="#Python Strings"><span class="toctext">Python Strings </span></a></li> 
- <li class="toclevel-1 tocsection-9"><a href="#Python Booleans "><span class="toctext">Python Booleans  </span></a></li> 
- 
+ <li class="toclevel-1 tocsection-9"><a href="#Python Booleans"><span class="toctext">Python Booleans  </span></a></li> 
+  <li class="toclevel-1 tocsection-10"><a href="#Python Operators"><span class="toctext">Python Operators  </span></a></li> 
  
 </ul>
 
@@ -858,7 +858,127 @@ False </pre>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
-
+<h2 id ="Python Operators"><span style="color: #000009;">Python Operators</span></h2>
+<ul>
+<li><strong>Arithmetic Operators</strong></li>
+</ul>
+<p>&nbsp;</p>
+<table style="width: 281px;">
+<tbody>
+<tr>
+<td style="width: 61px;">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Operator</strong></p>
+</td>
+<td style="width: 122px;">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Name</strong></p>
+</td>
+<td style="width: 76px;">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Example</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 61px;">
+<p><strong>&nbsp;</strong></p>
+<p>+</p>
+</td>
+<td style="width: 122px;">
+<p><strong>&nbsp;</strong></p>
+<p>Addition</p>
+</td>
+<td style="width: 76px;">
+<p><strong>&nbsp;</strong></p>
+<p>x + y</p>
+</td>
+</tr>
+<tr>
+<td style="width: 61px;">
+<p><strong>&nbsp;</strong></p>
+<p>-</p>
+</td>
+<td style="width: 122px;">
+<p><strong>&nbsp;</strong></p>
+<p>Subtraction</p>
+</td>
+<td style="width: 76px;">
+<p><strong>&nbsp;</strong></p>
+<p>x - y</p>
+</td>
+</tr>
+<tr>
+<td style="width: 61px;">
+<p><strong>&nbsp;</strong></p>
+<p>*</p>
+</td>
+<td style="width: 122px;">
+<p><strong>&nbsp;</strong></p>
+<p>Multiplication</p>
+</td>
+<td style="width: 76px;">
+<p><strong>&nbsp;</strong></p>
+<p>x * y</p>
+</td>
+</tr>
+<tr>
+<td style="width: 61px;">
+<p><strong>&nbsp;</strong></p>
+<p>/</p>
+</td>
+<td style="width: 122px;">
+<p><strong>&nbsp;</strong></p>
+<p>Division</p>
+</td>
+<td style="width: 76px;">
+<p><strong>&nbsp;</strong></p>
+<p>x / y</p>
+</td>
+</tr>
+<tr>
+<td style="width: 61px;">
+<p><strong>&nbsp;</strong></p>
+<p>%</p>
+</td>
+<td style="width: 122px;">
+<p><strong>&nbsp;</strong></p>
+<p>Modulus</p>
+</td>
+<td style="width: 76px;">
+<p><strong>&nbsp;</strong></p>
+<p>x % y</p>
+</td>
+</tr>
+<tr>
+<td style="width: 61px;">
+<p><strong>&nbsp;</strong></p>
+<p>**</p>
+</td>
+<td style="width: 122px;">
+<p><strong>&nbsp;</strong></p>
+<p>Exponentiation</p>
+</td>
+<td style="width: 76px;">
+<p><strong>&nbsp;</strong></p>
+<p>x ** y</p>
+</td>
+</tr>
+<tr>
+<td style="width: 61px;">
+<p><strong>&nbsp;</strong></p>
+<p>//</p>
+</td>
+<td style="width: 122px;">
+<p><strong>&nbsp;</strong></p>
+<p>Floor division</p>
+</td>
+<td style="width: 76px;">
+<p><strong>&nbsp;</strong></p>
+<p>x // y</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
