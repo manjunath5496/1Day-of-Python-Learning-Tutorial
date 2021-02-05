@@ -1522,6 +1522,22 @@ print(a > 3 or a < 4)
 <pre> 
 True</pre>
 <hr>
+<h3> Code: </h3>
+
+```python
+
+a = ["Chair", "bench"]
+
+print("Car" not in a)
+
+# returns True because a sequence with the value "Car" is not in the list
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+True</pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
