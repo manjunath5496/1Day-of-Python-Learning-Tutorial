@@ -6,7 +6,11 @@
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="toctext">Introduction</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Python Indentation"><span class="toctext">Python Indentation</span></a></li>
-
+<li class="toclevel-1 tocsection-3"><a href="#Python Comments "><span class="toctext">Python Comments </span></a></li>
+  
+  
+  
+  
 </ul>
 
 </br>
@@ -165,7 +169,19 @@ print("Four is greater than three!")
 IndentationError: expected an indented block </pre>
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+<h2 id="Python Comments "> Python Comments </h2>
+<h3> Code: </h3>
 
+```python
+#This is a comment 
+print("Hello, World!")
+```
+<h3> Output on the screen:</h3>
 
+<pre> Hello, World! </pre>
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
 
 
