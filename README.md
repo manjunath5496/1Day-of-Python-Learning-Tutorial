@@ -1287,3 +1287,68 @@ False </pre>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<ul>
+<li><strong>Logical Operators</strong></li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="85">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Operator</strong></p>
+</td>
+<td width="348">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Description</strong></p>
+</td>
+<td width="180">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Example</strong></p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p><strong>&nbsp;</strong></p>
+<p>and</p>
+</td>
+<td width="348">
+<p><strong>&nbsp;</strong></p>
+<p>Returns True if both statements are true</p>
+</td>
+<td width="180">
+<p><strong>&nbsp;</strong></p>
+<p>x &lt; 5 and&nbsp; x &lt; 10</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p><strong>&nbsp;</strong></p>
+<p>or</p>
+</td>
+<td width="348">
+<p><strong>&nbsp;</strong></p>
+<p>Returns True if one of the statements is true</p>
+</td>
+<td width="180">
+<p><strong>&nbsp;</strong></p>
+<p>x &lt; 5 or x &lt; 4</p>
+</td>
+</tr>
+<tr>
+<td width="85">
+<p><strong>&nbsp;</strong></p>
+<p>not</p>
+</td>
+<td width="348">
+<p><strong>&nbsp;</strong></p>
+<p>Returns False if the result is true</p>
+</td>
+<td width="180">
+<p><strong>&nbsp;</strong></p>
+<p>not(x &lt; 5 and x &lt; 10)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
