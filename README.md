@@ -763,7 +763,7 @@ WTON</pre>
 <h3> Code: </h3>
 
 ```python
-#count the number of times the character 'N' appears:
+# count the number of times the character 'N' appears:
 b = "NEWTON"
 print(b.count("N"))
 ```
