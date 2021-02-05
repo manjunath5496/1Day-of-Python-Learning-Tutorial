@@ -1352,3 +1352,32 @@ False </pre>
 </tbody>
 </table>
 </br>
+<ul>
+<li><strong>Identity Operators</strong></li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<table class="w3-table-all notranslate" style="width: 431px;">
+<tbody>
+<tr>
+<th style="width: 56px;">Operator</th>
+<th style="width: 300px;">Description</th>
+<th style="width: 53px;">Example</th>
+</tr>
+<tr>
+<td style="width: 56px;">
+<p>is&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 300px;">Returns True if both variables are the same object</td>
+<td style="width: 53px;">x is y</td>
+</tr>
+<tr>
+<td style="width: 56px;">
+<p>is not</p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 300px;">Returns True if both variables are not the same object</td>
+<td style="width: 53px;">x is not y</td>
+</tr>
+</tbody>
+</table>
