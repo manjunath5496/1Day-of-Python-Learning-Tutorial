@@ -1381,3 +1381,71 @@ False </pre>
 </tr>
 </tbody>
 </table>
+</br>
+<ul>
+<li><strong>Membership Operators</strong></li>
+</ul>
+<p>&nbsp;</p>
+<table class="w3-table-all notranslate">
+<tbody>
+<tr>
+<th>Operator</th>
+<th>Description</th>
+<th>Example</th>
+</tr>
+<tr>
+<td>in&nbsp;</td>
+<td>Returns True if a sequence with the specified value is present in the object</td>
+<td>x in y</td>
+</tr>
+<tr>
+<td>not in</td>
+<td>Returns True if a sequence with the specified value is not present in the object</td>
+<td>x not in y</td>
+</tr>
+</tbody>
+</table>
+</br>
+<ul>
+<li><strong>Python Bitwise Operators</strong></li>
+</ul>
+<p>&nbsp;</p>
+<table class="w3-table-all notranslate">
+<tbody>
+<tr>
+<th>Operator</th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>&amp;&nbsp;</td>
+<td>AND</td>
+<td>Sets each bit to 1 if both bits are 1</td>
+</tr>
+<tr>
+<td>|</td>
+<td>OR</td>
+<td>Sets each bit to 1 if one of two bits is 1</td>
+</tr>
+<tr>
+<td>&nbsp;^</td>
+<td>XOR</td>
+<td>Sets each bit to 1 if only one of two bits is 1</td>
+</tr>
+<tr>
+<td>~&nbsp;</td>
+<td>NOT</td>
+<td>Inverts all the bits</td>
+</tr>
+<tr>
+<td>&lt;&lt;</td>
+<td>Zero fill left shift</td>
+<td>Shift left by pushing zeros in from the right and let the leftmost bits fall off</td>
+</tr>
+<tr>
+<td>&gt;&gt;</td>
+<td>Signed right shift</td>
+<td>Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off</td>
+</tr>
+</tbody>
+</table>
