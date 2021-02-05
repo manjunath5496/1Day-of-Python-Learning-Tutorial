@@ -1506,6 +1506,22 @@ print(a > 3 and a < 9)
 <pre> 
 True</pre>
 <hr>
+<h3> Code: </h3>
+
+```python
+
+a = 5
+
+print(a > 3 or a < 4)
+
+# returns True because one of the conditions are true (5 is greater than 3, but 5 is not less than 4)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+True</pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
