@@ -313,9 +313,114 @@ print(type(a))
 <class 'int'> </pre>
 <br>
 <hr>
+<table style="width: 462px;">
+<tbody>
+<tr>
+<td style="width: 336px;">
+<p>&nbsp;</p>
+<p><strong>Value of a</strong></p>
+</td>
+<td style="width: 110px;">
+<p>&nbsp;</p>
+<p><strong>Data Type</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 336px;">
+<p>&nbsp;</p>
+<p>a = "Hello World"</p>
+</td>
+<td style="width: 110px;">
+<p>&nbsp;</p>
+<p>str</p>
+</td>
+</tr>
+<tr>
+<td style="width: 336px;">
+<p>&nbsp;</p>
+<p>a = 20</p>
+</td>
+<td style="width: 110px;">
+<p>&nbsp;</p>
+<p>int</p>
+</td>
+</tr>
+<tr>
+<td style="width: 336px;">
+<p>&nbsp;</p>
+<p>a = 20.5</p>
+</td>
+<td style="width: 110px;">
+<p>&nbsp;</p>
+<p>float</p>
+</td>
+</tr>
+<tr>
+<td style="width: 336px;">
+<p>&nbsp;</p>
+<p>a = 1k</p>
+</td>
+<td style="width: 110px;">
+<p>&nbsp;</p>
+<p>complex</p>
+</td>
+</tr>
+<tr>
+<td style="width: 336px;">
+<p>&nbsp;</p>
+<p>a = ["Tree", "Chair", "bench"]</p>
+</td>
+<td style="width: 110px;">
+<p>&nbsp;</p>
+<p>list</p>
+</td>
+</tr>
+<tr>
+<td style="width: 336px;">
+<p>&nbsp;</p>
+<p>a = ("Tree", "Chair", "bench")</p>
+</td>
+<td style="width: 110px;">
+<p>&nbsp;</p>
+<p>tuple</p>
+</td>
+</tr>
+<tr>
+<td style="width: 336px;">
+<p>&nbsp;</p>
+<p>a = range(6)</p>
+</td>
+<td style="width: 110px;">
+<p>&nbsp;</p>
+<p>range</p>
+</td>
+</tr>
+<tr>
+<td style="width: 336px;">
+<p>&nbsp;</p>
+<p>a = {"name" : "Guido van Rossum", "age" : 65}</p>
+</td>
+<td style="width: 110px;">
+<p>&nbsp;</p>
+<p>dict</p>
+</td>
+</tr>
+<tr>
+<td style="width: 336px;">
+<p>&nbsp;</p>
+<p>a = {"Tree", "Chair", "bench"}</p>
+</td>
+<td style="width: 110px;">
+<p>&nbsp;</p>
+<p>set</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-
-
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
 
 
 
