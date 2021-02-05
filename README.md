@@ -6,7 +6,7 @@
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="toctext">Introduction</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Python Indentation"><span class="toctext">Python Indentation</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Python Comments "><span class="toctext">Python Comments </span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Python Comments"><span class="toctext">Python Comments </span></a></li>
   
   
   
