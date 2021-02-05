@@ -786,6 +786,22 @@ print(b.count("of"))
 <hr>
 
 
+<h3> Code: </h3>
+
+```python
+a = "ALBERT EINSTEIN"
+print(a.lower())
+
+b = "albert einstein"
+print(b.upper())
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+albert einstein
+ALBERT EINSTEIN</pre>
+<hr>
+
 
 
 
