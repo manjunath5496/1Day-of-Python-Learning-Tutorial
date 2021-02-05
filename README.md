@@ -773,6 +773,17 @@ print(b.count("N"))
 2</pre>
 <hr>
 
+<h3> Code: </h3>
+
+```python
+b = "Albert Einstein was a German-born theoretical physicist who developed the theory of relativity."
+print(b.count("of"))
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+1</pre>
+<hr>
 
 
 
