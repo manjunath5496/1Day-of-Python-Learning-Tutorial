@@ -980,5 +980,208 @@ False </pre>
 </tbody>
 </table>
 
+<ul>
+<li><strong>Assignment Operators</strong></li>
+</ul>
+<table>
+<tbody>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Operator</strong></p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Example</strong></p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Same As</strong></p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x = 5</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = 5</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>+=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x += 3</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = x + 3</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>-=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x -= 3</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = x - 3</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>*=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x *= 3</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = x * 3</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>/=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x /= 3</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = x / 3</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>%=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x %= 3</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = x % 3</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>//=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x //= 3</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = x // 3</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>**=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x **= 3</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = x ** 3</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>&amp;=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x &amp;= 3</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = x &amp; 3</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>|=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x |= 3</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = x | 3</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>^=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x ^= 3</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = x ^ 3</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>&gt;&gt;=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x &gt;&gt;= 3</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = x &gt;&gt; 3</p>
+</td>
+</tr>
+<tr>
+<td width="127">
+<p><strong>&nbsp;</strong></p>
+<p>&lt;&lt;=</p>
+</td>
+<td width="120">
+<p><strong>&nbsp;</strong></p>
+<p>x &lt;&lt;= 3</p>
+</td>
+<td width="126">
+<p><strong>&nbsp;</strong></p>
+<p>x = x &lt;&lt; 3</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
