@@ -687,7 +687,26 @@ Yes, 'newton' is NOT present.</pre>
 </tbody>
 </table>
 
-
+<table style="width: 149px;">
+<tbody>
+<tr>
+<td style="width: 52px;">-6</td>
+<td style="width: 40px;">-5</td>
+<td style="width: 38px;">-4</td>
+<td style="width: 28px;">-3</td>
+<td style="width: 52px;">-2</td>
+<td style="width: 77px;">-1</td>
+</tr>
+<tr>
+<td style="width: 52px;">N</td>
+<td style="width: 40px;">E</td>
+<td style="width: 38px;">W</td>
+<td style="width: 28px;">T</td>
+<td style="width: 52px;">O</td>
+<td style="width: 77px;">N</td>
+</tr>
+</tbody>
+</table>
 
 
 <h3> Code: </h3>
