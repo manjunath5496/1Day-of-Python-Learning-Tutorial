@@ -1449,3 +1449,23 @@ False </pre>
 </tr>
 </tbody>
 </table>
+</br>
+<h3> Code: </h3>
+
+```python
+a = 2
+b = 4
+
+print(a ** b) #same as 2*2*2*2
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+16</pre>
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+
+
+
