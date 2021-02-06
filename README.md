@@ -1598,7 +1598,18 @@ print(len(thislist))
 3</pre>
 <hr>
 
+<h3> Code: </h3>
 
+```python
+thislist = ["Car", "bench", "Chair"]
+print(thislist[-1])
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Chair</pre>
+<hr>
 
 
 
