@@ -1659,6 +1659,23 @@ if "Chair" in thislist:
 Yes, 'Chair' is in the list
 </pre>
 <hr>
+<h3> Code: </h3>
+
+```python
+thislist = ["Car", "bench", "Chair"] 
+thislist[1] = "book"
+
+print(thislist)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['Car', 'book', 'Chair']
+</pre>
+<hr>
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
