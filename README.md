@@ -2069,7 +2069,7 @@ print(x)
 <pre> 
 ('chair', 'book', 'car')</pre>
 <hr>
-
+</br>
 <ul>
 <li><strong>Python Tuple Methods</strong></li>
 </ul>
@@ -2108,7 +2108,7 @@ print(x)
 </tr>
 </tbody>
 </table>
-
+<hr>
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
