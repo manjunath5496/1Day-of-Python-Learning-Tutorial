@@ -1627,7 +1627,23 @@ bench
 Car
 </pre>
 <hr>
+<h3> Code: </h3>
 
+```python
+# print the data type of a list
+a = ["Chair", "bench", "Car"]
+
+print(type(a))
+
+
+
+```
+<h3> Output on the screen:</h3>
+
+
+<class 'list'>
+
+<hr>
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
