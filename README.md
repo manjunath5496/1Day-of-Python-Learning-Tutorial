@@ -15,6 +15,8 @@
  <li class="toclevel-1 tocsection-9"><a href="#Python Booleans"><span class="toctext">Python Booleans  </span></a></li> 
   <li class="toclevel-1 tocsection-10"><a href="#Python Operators"><span class="toctext">Python Operators  </span></a></li> 
  <li class="toclevel-1 tocsection-11"><a href="#Python Lists"><span class="toctext">Python Lists  </span></a></li> 
+  <li class="toclevel-1 tocsection-12"><a href="#Python Tuples "><span class="toctext">Python Tuples  </span></a></li> 
+ 
 </ul>
 
 </br>
@@ -1953,4 +1955,72 @@ print(list1)
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id="Python Tuples"> Python Tuples </h2>
+
+<h3> Code: </h3>
+
+```python
+thistuple = ("chair", "bench", "car") 
+print(thistuple)
+  
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+('chair', 'bench', 'car')</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+thistuple = ("chair", "bench", "car") 
+print(thistuple[1])
+  
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+bench</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+thistuple = ("chair", "bench", "car") 
+print(thistuple[-1])
+  
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+car</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+thistuple = ("chair", "bench", "car") 
+for x in thistuple:
+  print(x)
+
+  
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+chair
+bench
+car</pre>
+<hr>
+
+
+
+
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+
 
