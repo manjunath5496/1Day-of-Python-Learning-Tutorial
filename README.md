@@ -1644,7 +1644,21 @@ print(type(a))
 <class 'list'>
 
 <hr>
+<h3> Code: </h3>
 
+```python
+thislist = ["Chair", "bench", "Car"] 
+if "Chair" in thislist:
+  print("Yes, 'Chair' is in the list")
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Yes, 'Chair' is in the list
+</pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
