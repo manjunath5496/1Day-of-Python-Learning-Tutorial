@@ -2644,6 +2644,23 @@ print(thisdict)
 <pre> 
 {'Name': 'Albert Einstein', 'Theory': 'Theory of relativity', 'year': 1905, 'best known': 'mass–energy equivalence'} </pre>
 <hr>
+<h3> Code: </h3>
+
+```python
+thisdict={
+  "Name": "Albert Einstein",
+  "Theory": "Theory of relativity",
+  "year": 1905
+}
+del thisdict["year"] 
+print(thisdict)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+{'Name': 'Albert Einstein', 'Theory': 'Theory of relativity'} </pre>
+<hr>
 
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
