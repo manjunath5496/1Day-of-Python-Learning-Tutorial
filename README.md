@@ -2460,7 +2460,7 @@ print(set1)
 <h3> Code: </h3>
 
 ```python
-thisdict =	{
+thisdict={
   "Name": "Albert Einstein",
   "Theory": "Theory of relativity",
   "year": 1905
@@ -2476,7 +2476,7 @@ print(thisdict)
 <h3> Code: </h3>
 
 ```python
-thisdict =	{
+thisdict={
   "Name": "Albert Einstein",
   "Theory": "Theory of relativity",
   "year": 1905
@@ -2494,7 +2494,7 @@ print(x)
 <h3> Code: </h3>
 
 ```python
-thisdict =	{
+thisdict={
   "Name": "Albert Einstein",
   "Theory": "Theory of relativity",
   "year": 1905
@@ -2535,7 +2535,7 @@ year </pre>
 <h3> Code: </h3>
 
 ```python
-thisdict =	{
+thisdict={
   "Name": "Albert Einstein",
   "Theory": "Theory of relativity",
   "year": 1905
@@ -2555,7 +2555,7 @@ Theory of relativity
 <h3> Code: </h3>
 
 ```python
-thisdict =	{
+thisdict={
   "Name": "Albert Einstein",
   "Theory": "Theory of relativity",
   "year": 1905
@@ -2576,7 +2576,7 @@ Theory of relativity
 <h3> Code: </h3>
 
 ```python
-thisdict =	{
+thisdict={
   "Name": "Albert Einstein",
   "Theory": "Theory of relativity",
   "year": 1905
