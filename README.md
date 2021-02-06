@@ -2190,8 +2190,8 @@ print(type(thisset))
 ```
 <h3> Output on the screen:</h3>
 
-<pre> 
-<class 'set'></pre>
+ 
+<class 'set'>
 <hr>
 
 
