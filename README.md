@@ -1717,9 +1717,6 @@ thislist = ["book", "Car", "bench"]
 thislist.clear()
 print(thislist)
 
-
-
-
 ```
 <h3> Output on the screen:</h3>
 
@@ -1728,7 +1725,23 @@ print(thislist)
 </pre>
 <hr>
 
+<h3> Code: </h3>
 
+```python
+a = ["a", "b", "c"] 
+b = [1, 2, 3]
+
+c = a + b 
+print(c)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['a', 'b', 'c', 1, 2, 3]
+</pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
