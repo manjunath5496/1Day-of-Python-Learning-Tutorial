@@ -2551,6 +2551,49 @@ Albert Einstein
 Theory of relativity
 1905 </pre>
 <hr>
+
+<h3> Code: </h3>
+
+```python
+thisdict =	{
+  "Name": "Albert Einstein",
+  "Theory": "Theory of relativity",
+  "year": 1905
+}
+for x in thisdict.values(): 
+ print(x)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Albert Einstein
+Theory of relativity
+1905 </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+thisdict =	{
+  "Name": "Albert Einstein",
+  "Theory": "Theory of relativity",
+  "year": 1905
+}
+for x, y in thisdict.items(): 
+ print(x, y)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Name Albert Einstein
+Theory Theory of relativity
+year 1905 </pre>
+<hr>
+
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
