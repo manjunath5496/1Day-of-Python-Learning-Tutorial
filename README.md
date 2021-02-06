@@ -2014,8 +2014,31 @@ bench
 car</pre>
 <hr>
 
+<h3> Code: </h3>
 
+```python
+thistuple = ("chair", "bench", "car") 
+if "car" in thistuple:
+  print("Yes, 'car' is in the tuple")
+```
+<h3> Output on the screen:</h3>
 
+<pre> 
+Yes, 'car' is in the tuple</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Print the number of items in the tuple:
+thistuple = ("chair", "bench", "car") 
+print(len(thistuple))
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+3</pre>
+<hr>
 
 
 
