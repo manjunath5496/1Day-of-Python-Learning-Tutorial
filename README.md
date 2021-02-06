@@ -17,6 +17,7 @@
  <li class="toclevel-1 tocsection-11"><a href="#Python Lists"><span class="toctext">Python Lists  </span></a></li> 
   <li class="toclevel-1 tocsection-12"><a href="#Python Tuples"><span class="toctext">Python Tuples  </span></a></li> 
    <li class="toclevel-1 tocsection-13"><a href="#Python Sets"><span class="toctext">Python Sets  </span></a></li> 
+  <li class="toclevel-1 tocsection-14"><a href="#Python Dictionaries"><span class="toctext">Python Dictionaries   </span></a></li> 
 </ul>
 
 </br>
@@ -2455,7 +2456,101 @@ print(set1)
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id ="Python Dictionaries">Python Dictionaries  </h2>
+<h3> Code: </h3>
+
+```python
+thisdict =	{
+  "Name": "Albert Einstein",
+  "Theory": "Theory of relativity",
+  "year": 1905
+}
+print(thisdict)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> {'Name': 'Albert Einstein', 'Theory': 'Theory of relativity', 'year': 1905} </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+thisdict =	{
+  "Name": "Albert Einstein",
+  "Theory": "Theory of relativity",
+  "year": 1905
+}
+x = thisdict["Name"] 
+print(x)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> Albert Einstein </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+thisdict =	{
+  "Name": "Albert Einstein",
+  "Theory": "Theory of relativity",
+  "year": 1905
+}
+thisdict["year"] = 2020
+print(thisdict)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> {'Name': 'Albert Einstein', 'Theory': 'Theory of relativity', 'year': 2020} </pre>
+<hr>
+
+
+<h3> Code: </h3>
+
+```python
+thisdict =	{
+  "Name": "Albert Einstein",
+  "Theory": "Theory of relativity",
+  "year": 1905
+}
+for x in thisdict: 
+ print(x)
 
 
 
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Name
+Theory
+year </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+thisdict =	{
+  "Name": "Albert Einstein",
+  "Theory": "Theory of relativity",
+  "year": 1905
+}
+for x in thisdict: 
+ print(thisdict[x])
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Albert Einstein
+Theory of relativity
+1905 </pre>
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
 
