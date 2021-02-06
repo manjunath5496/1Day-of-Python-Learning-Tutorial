@@ -1675,7 +1675,23 @@ print(thislist)
 ['Car', 'book', 'Chair']
 </pre>
 <hr>
+<h3> Code: </h3>
 
+```python
+# add an item to the end of the list
+
+thislist = ["Chair", "bench", "Car"] 
+thislist.append("book") 
+print(thislist)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['Chair', 'bench', 'Car', 'book']
+</pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
