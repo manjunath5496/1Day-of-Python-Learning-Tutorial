@@ -1610,7 +1610,23 @@ print(thislist[-1])
 <pre> 
 Chair</pre>
 <hr>
+<h3> Code: </h3>
 
+```python
+thislist = ["Chair", "bench", "Car"] 
+for a in thislist:
+  print(a)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Chair
+bench
+Car
+</pre>
+<hr>
 
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
