@@ -2069,6 +2069,47 @@ print(x)
 <pre> 
 ('chair', 'book', 'car')</pre>
 <hr>
+
+<ul>
+<li><strong>Python Tuple Methods</strong></li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="138">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Method</strong></p>
+</td>
+<td width="452">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Description</strong></p>
+</td>
+</tr>
+<tr>
+<td width="138">
+<p><strong>&nbsp;</strong></p>
+<p>count()</p>
+</td>
+<td width="452">
+<p><strong>&nbsp;</strong></p>
+<p>Returns the number of times a specified value occurs in a tuple</p>
+</td>
+</tr>
+<tr>
+<td width="138">
+<p><strong>&nbsp;</strong></p>
+<p>index()</p>
+</td>
+<td width="452">
+<p><strong>&nbsp;</strong></p>
+<p>Searches the tuple for a specified value and returns the position of where it was found</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
