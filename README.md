@@ -14,7 +14,7 @@
   <li class="toclevel-1 tocsection-8"><a href="#Python Strings"><span class="toctext">Python Strings </span></a></li> 
  <li class="toclevel-1 tocsection-9"><a href="#Python Booleans"><span class="toctext">Python Booleans  </span></a></li> 
   <li class="toclevel-1 tocsection-10"><a href="#Python Operators"><span class="toctext">Python Operators  </span></a></li> 
- 
+ <li class="toclevel-1 tocsection-11"><a href="#Python Lists"><span class="toctext">Python Lists  </span></a></li> 
 </ul>
 
 </br>
@@ -1555,7 +1555,40 @@ print(a)
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id ="Python Lists"> Python Lists </h2>
+
+<h3> Code: </h3>
+
+```python
+thislist = ["Car", "bench", "Chair"] 
+print(thislist) 
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['Car', 'bench', 'Chair']</pre>
+<hr>
+
+
+<h3> Code: </h3>
+
+```python
+thislist = ["Car", "bench", "Chair"] 
+print(thislist[1])
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+bench</pre>
+<hr>
 
 
 
+
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
 
