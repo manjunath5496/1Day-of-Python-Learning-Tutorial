@@ -1692,6 +1692,27 @@ print(thislist)
 ['Chair', 'bench', 'Car', 'book']
 </pre>
 <hr>
+
+<h3> Code: </h3>
+
+```python
+thislist = ["book", "Car", "bench"]
+thislist.remove("Car") 
+print(thislist)
+
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['book', 'bench']
+</pre>
+<hr>
+
+
+
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
