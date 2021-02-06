@@ -2055,6 +2055,20 @@ print(tuple3)
 ('a', 'b', 'c', 1, 2, 3)</pre>
 <hr>
 
+<h3> Code: </h3>
+
+```python
+x = ("chair", "bench", "car") 
+y = list(x)
+y[1] = "book" 
+x = tuple(y)
+print(x)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+('chair', 'book', 'car')</pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
