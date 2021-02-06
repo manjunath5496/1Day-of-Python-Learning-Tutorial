@@ -1584,6 +1584,19 @@ print(thislist[1])
 bench</pre>
 <hr>
 
+<h3> Code: </h3>
+
+```python
+# Print the number of items in the list:
+thislist = ["Car", "bench", "Chair"]
+print(len(thislist))
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+3</pre>
+<hr>
 
 
 
