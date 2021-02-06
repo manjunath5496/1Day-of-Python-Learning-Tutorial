@@ -15,8 +15,8 @@
  <li class="toclevel-1 tocsection-9"><a href="#Python Booleans"><span class="toctext">Python Booleans  </span></a></li> 
   <li class="toclevel-1 tocsection-10"><a href="#Python Operators"><span class="toctext">Python Operators  </span></a></li> 
  <li class="toclevel-1 tocsection-11"><a href="#Python Lists"><span class="toctext">Python Lists  </span></a></li> 
-  <li class="toclevel-1 tocsection-12"><a href="#Python Tuples "><span class="toctext">Python Tuples  </span></a></li> 
- 
+  <li class="toclevel-1 tocsection-12"><a href="#Python Tuples"><span class="toctext">Python Tuples  </span></a></li> 
+   <li class="toclevel-1 tocsection-13"><a href="#Python Sets"><span class="toctext">Python Sets  </span></a></li> 
 </ul>
 
 </br>
@@ -2112,6 +2112,44 @@ print(x)
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+
+<h2 id="Python Sets"> Python Sets  </h2>
+
+<h3> Code: </h3>
+
+```python
+thisset = {"chair", "bench", "car"} 
+print(thisset)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+{'bench', 'car', 'chair'}</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+thisset = {"chair", "bench", "car"} 
+print("book" in thisset)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+False</pre>
+<hr>
+
+
+
+
+
+
+
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
 
 
 
