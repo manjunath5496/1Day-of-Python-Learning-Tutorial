@@ -2041,6 +2041,19 @@ print(len(thistuple))
 <hr>
 
 
+<h3> Code: </h3>
+
+```python
+tuple1 = ("a", "b", "c") 
+tuple2 = (1, 2, 3)
+tuple3 = tuple1 + tuple2 
+print(tuple3)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+('a', 'b', 'c', 1, 2, 3)</pre>
+<hr>
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
