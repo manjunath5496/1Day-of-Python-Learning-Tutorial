@@ -1742,6 +1742,68 @@ print(c)
 ['a', 'b', 'c', 1, 2, 3]
 </pre>
 <hr>
+
+<h3> Code: </h3>
+
+```python
+# Append list2 into list1
+
+list1 = ["a", "b", "c"] 
+list2 = [1, 2, 3]
+
+for x in list2: 
+  list1.append(x)
+
+print(list1)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['a', 'b', 'c', 1, 2, 3]
+</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+
+# copy of a list with the copy() method
+
+thislist = ["car", "bench", "chalk"] 
+mylist = thislist.copy()
+print(mylist)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['car', 'bench', 'chalk']
+</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+
+
+# copy of a list with the list() method
+
+thislist = ["car", "bench", "chalk"] 
+mylist = list(thislist)
+print(mylist)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['car', 'bench', 'chalk']
+</pre>
+<hr>
+
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
