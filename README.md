@@ -2662,7 +2662,23 @@ print(thisdict)
 {'Name': 'Albert Einstein', 'Theory': 'Theory of relativity'} </pre>
 <hr>
 
+<h3> Code: </h3>
 
+```python
+thisdict={
+  "Name": "Albert Einstein",
+  "Theory": "Theory of relativity",
+  "year": 1905
+}
+thisdict.clear() 
+print(thisdict)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+{} </pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
