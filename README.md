@@ -2194,7 +2194,73 @@ print(type(thisset))
 <class 'set'>
 <hr>
 
+<h3> Code: </h3>
 
+```python
+thisset = {"chair", "bench", "car"} 
+thisset.remove("bench")  
+print(thisset)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre>{'car', 'chair'} </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+thisset = {"chair", "bench", "car"} 
+thisset.discard("bench")   
+print(thisset)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre>{'car', 'chair'} </pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+thisset = {"chair", "bench", "car"} 
+thisset.clear()
+print(thisset)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> set() </pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+# The union() method returns a new set with all items from both sets:
+set1 = {"a", "b", "c"} 
+set2 = {1, 2, 3}
+set3 = set1.union(set2) 
+print(set3)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> {1, 2, 3, 'a', 'b', 'c'} </pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+# The update() method inserts the items in set2 into set1:
+set1 = {"a", "b", "c"} 
+set2 = {1, 2, 3}
+set1.update(set2) 
+print(set1)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> {1, 2, 3, 'a', 'b', 'c'} </pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
