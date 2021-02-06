@@ -2139,12 +2139,60 @@ print("book" in thisset)
 False</pre>
 <hr>
 
+<h3> Code: </h3>
 
+```python
+thisset = {"chair", "bench", "car"} 
+thisset.add("book")
+print(thisset)
+```
+<h3> Output on the screen:</h3>
 
+<pre> 
+{'bench', 'book', 'car', 'chair'}</pre>
+<hr>
 
+<h3> Code: </h3>
 
+```python
+thisset = {"chair", "bench", "car"} 
+thisset.update(["chalk", "pencil", "table"]) 
+print(thisset)
 
+```
+<h3> Output on the screen:</h3>
 
+<pre> 
+{'table', 'chalk', 'bench', 'pencil', 'car', 'chair'}</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Get the number of items in a set:
+thisset = {"chair", "bench", "car"} 
+print(len(thisset))
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+3</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# print the data type of a set
+thisset = {"chair", "bench", "car"} 
+print(type(thisset))
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+<class 'set'></pre>
+<hr>
 
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
