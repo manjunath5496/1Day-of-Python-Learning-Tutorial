@@ -2261,6 +2261,198 @@ print(set1)
 
 <pre> {1, 2, 3, 'a', 'b', 'c'} </pre>
 <hr>
+</br>
+
+<ul>
+<li><strong>&nbsp;</strong><strong>Python Set Methods</strong></li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Method</strong></p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Description</strong></p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>add()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Adds an element to the set</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>clear()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Removes all the elements from the set</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>copy()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Returns a copy of the set</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>difference()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Returns a set containing the difference between two or more sets</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>difference_update()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Removes the items in this set that are also included in another, specified set</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>discard()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Remove the specified item</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>intersection()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Returns a set, that is the intersection of two other sets</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>intersection_update()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Removes the items in this set that are not present in other, specified set(s)</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>isdisjoint()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Returns whether two sets have a intersection or not</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>issubset()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Returns whether another set contains this set or not</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>issuperset()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Returns whether this set contains another set or not</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>pop()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Removes an element from the set</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>remove()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Removes the specified element</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>symmetric_difference()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Returns a set with the symmetric differences of two sets</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>symmetric_difference_update()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>inserts the symmetric differences from this set and another</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>union()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Return a set containing the union of sets</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p><strong>&nbsp;</strong></p>
+<p>update()</p>
+</td>
+<td width="344">
+<p><strong>&nbsp;</strong></p>
+<p>Update the set with the union of this set and others</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
