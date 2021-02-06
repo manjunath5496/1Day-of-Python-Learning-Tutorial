@@ -2513,7 +2513,7 @@ print(thisdict)
 <h3> Code: </h3>
 
 ```python
-thisdict =	{
+thisdict={
   "Name": "Albert Einstein",
   "Theory": "Theory of relativity",
   "year": 1905
