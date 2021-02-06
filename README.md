@@ -1803,6 +1803,162 @@ print(mylist)
 </pre>
 <hr>
 
+<h3> Code: </h3>
+
+```python
+# add list2 at the end of list1 using extend() method
+
+list1 = ["a", "b", "c"] 
+list2 = [1, 2, 3]
+
+list1.extend(list2)
+print(list1)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['a', 'b', 'c', 1, 2, 3]
+</pre>
+<hr>
+
+<ul>
+<li><strong><span style="color: #000009;">Python List Methods</span></strong></li>
+</ul></br>
+<table>
+<tbody>
+<tr>
+<td width="130">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Method</strong></p>
+</td>
+<td width="461">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Description</strong></p>
+</td>
+</tr>
+<tr>
+<td width="130">
+<p><strong>&nbsp;</strong></p>
+<p>append()</p>
+</td>
+<td width="461">
+<p><strong>&nbsp;</strong></p>
+<p>Adds an element at the end of the list</p>
+</td>
+</tr>
+<tr>
+<td width="130">
+<p><strong>&nbsp;</strong></p>
+<p>clear()</p>
+</td>
+<td width="461">
+<p><strong>&nbsp;</strong></p>
+<p>Removes all the elements from the list</p>
+</td>
+</tr>
+<tr>
+<td width="130">
+<p><strong>&nbsp;</strong></p>
+<p>copy()</p>
+</td>
+<td width="461">
+<p><strong>&nbsp;</strong></p>
+<p>Returns a copy of the list</p>
+</td>
+</tr>
+<tr>
+<td width="130">
+<p><strong>&nbsp;</strong></p>
+<p>count()</p>
+</td>
+<td width="461">
+<p><strong>&nbsp;</strong></p>
+<p>Returns the number of elements with the specified value</p>
+</td>
+</tr>
+<tr>
+<td width="130">
+<p><strong>&nbsp;</strong></p>
+<p>extend()</p>
+</td>
+<td width="461">
+<p><strong>&nbsp;</strong></p>
+<p>Add the elements of a list (or any iterable), to the end of the current list</p>
+</td>
+</tr>
+<tr>
+<td width="130">
+<p><strong>&nbsp;</strong></p>
+<p>index()</p>
+</td>
+<td width="461">
+<p><strong>&nbsp;</strong></p>
+<p>Returns the index of the first element with the specified value</p>
+</td>
+</tr>
+<tr>
+<td width="130">
+<p><strong>&nbsp;</strong></p>
+<p>insert()</p>
+</td>
+<td width="461">
+<p><strong>&nbsp;</strong></p>
+<p>Adds an element at the specified position</p>
+</td>
+</tr>
+<tr>
+<td width="130">
+<p><strong>&nbsp;</strong></p>
+<p>pop()</p>
+</td>
+<td width="461">
+<p><strong>&nbsp;</strong></p>
+<p>Removes the element at the specified position</p>
+</td>
+</tr>
+<tr>
+<td width="130">
+<p><strong>&nbsp;</strong></p>
+<p>remove()</p>
+</td>
+<td width="461">
+<p><strong>&nbsp;</strong></p>
+<p>Removes the item with the specified value</p>
+</td>
+</tr>
+<tr>
+<td width="130">
+<p><strong>&nbsp;</strong></p>
+<p>reverse()</p>
+</td>
+<td width="461">
+<p><strong>&nbsp;</strong></p>
+<p>Reverses the order of the list</p>
+</td>
+</tr>
+<tr>
+<td width="130">
+<p><strong>&nbsp;</strong></p>
+<p>sort()</p>
+</td>
+<td width="461">
+<p><strong>&nbsp;</strong></p>
+<p>Sorts the list</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
