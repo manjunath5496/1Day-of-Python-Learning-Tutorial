@@ -2900,7 +2900,7 @@ print(scientists)
 <h3> Code: </h3>
 
 ```python
-# Get the value of the first array item:
+# Get the value of the first array:
 scientists = ["Aristotle", "Francis Bacon", "Niels Bohr"]
 
 x = scientists[0]
@@ -2917,7 +2917,7 @@ Aristotle</pre>
 <h3> Code: </h3>
 
 ```python
-# Modify the value of the first array item:
+# Modify the value of the first array:
 scientists = ["Aristotle", "Francis Bacon", "Niels Bohr"]
 
 scientists[0] = "Newton"
@@ -2934,7 +2934,7 @@ print(scientists)
 <h3> Code: </h3>
 
 ```python
-# Return the number of elements in the scientists array:
+# Return the number of names in the scientists array:
 scientists = ["Aristotle", "Francis Bacon", "Niels Bohr"]
 
 x = len(scientists)
@@ -2947,6 +2947,201 @@ print(x)
 
 <pre> 
 3 </pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+scientists = ["Aristotle", "Francis Bacon", "Niels Bohr"]
+
+for x in scientists: 
+   print(x)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Aristotle
+Francis Bacon
+Niels Bohr </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+#Add one more name to the scientists array:
+scientists = ["Aristotle", "Francis Bacon", "Niels Bohr"]
+scientists.append("Newton") 
+print(scientists)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['Aristotle', 'Francis Bacon', 'Niels Bohr', 'Newton'] </pre>
+<hr>
+
+
+<h3> Code: </h3>
+
+```python
+scientists = ["Aristotle", "Francis Bacon", "Niels Bohr"]
+scientists.remove("Niels Bohr") 
+print(scientists)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['Aristotle', 'Francis Bacon'] </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Delete the second name in the scientists array:
+scientists = ["Aristotle", "Francis Bacon", "Niels Bohr"]
+scientists.pop(1)
+ 
+print(scientists)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['Aristotle', 'Niels Bohr'] </pre>
+<hr>
+</br>
+<ul>
+<li style="margin-top: 3.85pt;"><strong><span style="color: #000009;">Python Array Methods</span></strong></li>
+</ul>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td width="97">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Method</strong></p>
+</td>
+<td width="438">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Description</strong></p>
+</td>
+</tr>
+<tr>
+<td width="97">
+<p><strong>&nbsp;</strong></p>
+<p>append()</p>
+</td>
+<td width="438">
+<p><strong>&nbsp;</strong></p>
+<p>Adds an element at the end of the list</p>
+</td>
+</tr>
+<tr>
+<td width="97">
+<p><strong>&nbsp;</strong></p>
+<p>clear()</p>
+</td>
+<td width="438">
+<p><strong>&nbsp;</strong></p>
+<p>Removes all the elements from the list</p>
+</td>
+</tr>
+<tr>
+<td width="97">
+<p><strong>&nbsp;</strong></p>
+<p>copy()</p>
+</td>
+<td width="438">
+<p><strong>&nbsp;</strong></p>
+<p>Returns a copy of the list</p>
+</td>
+</tr>
+<tr>
+<td width="97">
+<p><strong>&nbsp;</strong></p>
+<p>count()</p>
+</td>
+<td width="438">
+<p><strong>&nbsp;</strong></p>
+<p>Returns the number of elements with the specified value</p>
+</td>
+</tr>
+<tr>
+<td width="97">
+<p><strong>&nbsp;</strong></p>
+<p>extend()</p>
+</td>
+<td width="438">
+<p><strong>&nbsp;</strong></p>
+<p>Add the elements of a list (or any iterable), to the end of the current list</p>
+</td>
+</tr>
+<tr>
+<td width="97">
+<p><strong>&nbsp;</strong></p>
+<p>index()</p>
+</td>
+<td width="438">
+<p><strong>&nbsp;</strong></p>
+<p>Returns the index of the first element with the specified value</p>
+</td>
+</tr>
+<tr>
+<td width="97">
+<p><strong>&nbsp;</strong></p>
+<p>insert()</p>
+</td>
+<td width="438">
+<p><strong>&nbsp;</strong></p>
+<p>Adds an element at the specified position</p>
+</td>
+</tr>
+<tr>
+<td width="97">
+<p><strong>&nbsp;</strong></p>
+<p>pop()</p>
+</td>
+<td width="438">
+<p><strong>&nbsp;</strong></p>
+<p>Removes the element at the specified position</p>
+</td>
+</tr>
+<tr>
+<td width="97">
+<p><strong>&nbsp;</strong></p>
+<p>remove()</p>
+</td>
+<td width="438">
+<p><strong>&nbsp;</strong></p>
+<p>Removes the first item with the specified value</p>
+</td>
+</tr>
+<tr>
+<td width="97">
+<p><strong>&nbsp;</strong></p>
+<p>reverse()</p>
+</td>
+<td width="438">
+<p><strong>&nbsp;</strong></p>
+<p>Reverses the order of the list</p>
+</td>
+</tr>
+<tr>
+<td width="97">
+<p><strong>&nbsp;</strong></p>
+<p>sort()</p>
+</td>
+<td width="438">
+<p><strong>&nbsp;</strong></p>
+<p>Sorts the list</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
