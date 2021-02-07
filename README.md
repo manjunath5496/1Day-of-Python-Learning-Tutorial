@@ -3295,6 +3295,7 @@ print(x)
 <h3> Code: </h3>
 
 ```python
+# Import math library
 import math
 
 x = math.sqrt(4)
@@ -3305,6 +3306,28 @@ print(x)
 <h3> Output on the screen:</h3>
 
 <pre> 
+2</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+import math
+
+#Round a number upward to its nearest integer
+a = math.ceil(2.4)
+
+#Round a number downward to its nearest integer
+b = math.floor(2.4)
+
+print(a)
+print(b)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+3
 2</pre>
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
