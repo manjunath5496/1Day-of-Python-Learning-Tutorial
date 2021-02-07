@@ -3330,6 +3330,24 @@ print(b)
 3
 2</pre>
 <hr>
+
+<h3> Code: </h3>
+
+```python
+import math
+
+a = math.pi
+
+print(a)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+3.141592653589793</pre>
+<hr>
+
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
