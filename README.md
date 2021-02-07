@@ -18,6 +18,11 @@
   <li class="toclevel-1 tocsection-12"><a href="#Python Tuples"><span class="toctext">Python Tuples  </span></a></li> 
    <li class="toclevel-1 tocsection-13"><a href="#Python Sets"><span class="toctext">Python Sets  </span></a></li> 
   <li class="toclevel-1 tocsection-14"><a href="#Python Dictionaries"><span class="toctext">Python Dictionaries   </span></a></li> 
+   <li class="toclevel-1 tocsection-15"><a href="#Python Lambda"><span class="toctext">Python Lambda   </span></a></li> 
+ 
+ 
+ 
+ 
 </ul>
 
 </br>
@@ -2813,4 +2818,68 @@ print(thisdict)
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id="Python Lambda"> Python Lambda  </h2>
+<h3> Code: </h3>
+
+```python
+# Add 10 to argument a, and return the result:
+x = lambda a: a + 10 
+print(x(5))
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+15 </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Multiply argument a with argument b and return the result:
+x = lambda a, b: a * b 
+print(x(5, 6))
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+30 </pre>
+<hr>
+
+
+<h3> Code: </h3>
+
+```python
+# Summarize argument a, b, and c and return the result:
+x = lambda a, b, c: a + b + c
+print(x(5, 6, 2))
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+13 </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+def myfunc(n):
+  return lambda a : a * n
+
+mydoubler = myfunc(2)
+
+print(mydoubler(11))
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+22 </pre>
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
 
