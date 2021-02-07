@@ -3586,7 +3586,7 @@ print(a)
 </tr>
 </tbody>
 </table>
-<p>The free online JavaScript beutifier organizes your scripts. Use it every time before publishing codes.</p>
+<hr>
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
