@@ -20,7 +20,7 @@
   <li class="toclevel-1 tocsection-14"><a href="#Python Dictionaries"><span class="toctext">Python Dictionaries   </span></a></li> 
    <li class="toclevel-1 tocsection-15"><a href="#Python Lambda"><span class="toctext">Python Lambda   </span></a></li> 
  <li class="toclevel-1 tocsection-15"><a href="#Python Arrays"><span class="toctext">Python Arrays  </span></a></li> 
- 
+ <li class="toclevel-1 tocsection-16"><a href="#Python Classes"><span class="toctext">Python Classes </span></a></li>
  
  
  
@@ -3145,4 +3145,19 @@ print(scientists)
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id ="Python Classes"> Python Classes  </h2>
+<h3> Code: </h3>
 
+```python
+class MyClass: x = 5
+p1 = MyClass() 
+print(p1.x)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+5 </pre>
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
