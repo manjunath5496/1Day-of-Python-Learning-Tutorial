@@ -3736,6 +3736,21 @@ print(txt.format(cost))
 <pre> 
 The cost is 56.00 Rupees</pre>
 <hr>
+<h3> Code: </h3>
+
+```python
+age = 16
+name = "Albert"
+txt = "His name is {1}. {1} is {0} years old."
+print(txt.format(age, name))
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+His name is Albert. Albert is 16 years old.</pre>
+<hr>
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
