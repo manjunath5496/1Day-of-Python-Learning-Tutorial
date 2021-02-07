@@ -3346,7 +3346,247 @@ print(a)
 <pre> 
 3.141592653589793</pre>
 <hr>
-
+</br>
+<ul>
+<li><strong>Math Methods</strong></li>
+</ul></br>
+<table>
+<tbody>
+<tr>
+<th>Method</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>math.acos()</td>
+<td>Returns the arc cosine of a number</td>
+</tr>
+<tr>
+<td>math.acosh()</td>
+<td>Returns the inverse hyperbolic cosine of a number</td>
+</tr>
+<tr>
+<td>math.asin()</td>
+<td>Returns the arc sine of a number</td>
+</tr>
+<tr>
+<td>math.asinh()</td>
+<td>Returns the inverse hyperbolic sine of a number</td>
+</tr>
+<tr>
+<td>math.atan()</td>
+<td>Returns the arc tangent of a number in radians</td>
+</tr>
+<tr>
+<td>math.atan2()</td>
+<td>Returns the arc tangent of y/x in radians</td>
+</tr>
+<tr>
+<td>math.atanh()</td>
+<td>Returns the inverse hyperbolic tangent of a number</td>
+</tr>
+<tr>
+<td>math.ceil()</td>
+<td>Rounds a number up to the nearest integer</td>
+</tr>
+<tr>
+<td>math.comb()</td>
+<td>Returns the number of ways to choose k items from n items without repetition and order</td>
+</tr>
+<tr>
+<td>math.copysign()</td>
+<td>Returns a float consisting of the value of the first parameter and the sign of the second parameter</td>
+</tr>
+<tr>
+<td>math.cos()</td>
+<td>Returns the cosine of a number</td>
+</tr>
+<tr>
+<td>math.cosh()</td>
+<td>Returns the hyperbolic cosine of a number</td>
+</tr>
+<tr>
+<td>math.degrees()</td>
+<td>Converts an angle from radians to degrees</td>
+</tr>
+<tr>
+<td>math.dist()</td>
+<td>Returns the Euclidean distance between two points (p and q), where p and q are the coordinates of that point</td>
+</tr>
+<tr>
+<td>math.erf()</td>
+<td>Returns the error function of a number</td>
+</tr>
+<tr>
+<td>math.erfc()</td>
+<td>Returns the complementary error function of a number</td>
+</tr>
+<tr>
+<td>math.exp()</td>
+<td>Returns E raised to the power of x</td>
+</tr>
+<tr>
+<td>math.expm1()</td>
+<td>Returns E<sup>x</sup> - 1</td>
+</tr>
+<tr>
+<td>math.fabs()</td>
+<td>Returns the absolute value of a number</td>
+</tr>
+<tr>
+<td>math.factorial()</td>
+<td>Returns the factorial of a number</td>
+</tr>
+<tr>
+<td>math.floor()</td>
+<td>Rounds a number down to the nearest integer</td>
+</tr>
+<tr>
+<td>math.fmod()</td>
+<td>Returns the remainder of x/y</td>
+</tr>
+<tr>
+<td>math.frexp()</td>
+<td>Returns the mantissa and the exponent, of a specified number</td>
+</tr>
+<tr>
+<td>math.fsum()</td>
+<td>Returns the sum of all items in any iterable (tuples, arrays, lists, etc.)</td>
+</tr>
+<tr>
+<td>math.gamma()</td>
+<td>Returns the gamma function at x</td>
+</tr>
+<tr>
+<td>math.gcd()</td>
+<td>Returns the greatest common divisor of two integers</td>
+</tr>
+<tr>
+<td>math.hypot()</td>
+<td>Returns the Euclidean norm</td>
+</tr>
+<tr>
+<td>math.isclose()</td>
+<td>Checks whether two values are close to each other, or not</td>
+</tr>
+<tr>
+<td>math.isfinite()</td>
+<td>Checks whether a number is finite or not</td>
+</tr>
+<tr>
+<td>math.isinf()</td>
+<td>Checks whether a number is infinite or not</td>
+</tr>
+<tr>
+<td>math.isnan()</td>
+<td>Checks whether a value is NaN (not a number) or not</td>
+</tr>
+<tr>
+<td>math.isqrt()</td>
+<td>Rounds a square root number downwards to the nearest integer</td>
+</tr>
+<tr>
+<td>math.ldexp()</td>
+<td>Returns the inverse of math.frexp() which is x * (2**i) of the given numbers x and i</td>
+</tr>
+<tr>
+<td>math.lgamma()</td>
+<td>Returns the log gamma value of x</td>
+</tr>
+<tr>
+<td>math.log()</td>
+<td>Returns the natural logarithm of a number, or the logarithm of number to base</td>
+</tr>
+<tr>
+<td>math.log10()</td>
+<td>Returns the base-10 logarithm of x</td>
+</tr>
+<tr>
+<td>math.log1p()</td>
+<td>Returns the natural logarithm of 1+x</td>
+</tr>
+<tr>
+<td>math.log2()</td>
+<td>Returns the base-2 logarithm of x</td>
+</tr>
+<tr>
+<td>math.perm()</td>
+<td>Returns the number of ways to choose k items from n items with order and without repetition</td>
+</tr>
+<tr>
+<td>math.pow()</td>
+<td>Returns the value of x to the power of y</td>
+</tr>
+<tr>
+<td>math.prod()</td>
+<td>Returns the product of all the elements in an iterable</td>
+</tr>
+<tr>
+<td>math.radians()</td>
+<td>Converts a degree value into radians</td>
+</tr>
+<tr>
+<td>math.remainder()</td>
+<td>Returns the closest value that can make numerator completely divisible by the denominator</td>
+</tr>
+<tr>
+<td>math.sin()</td>
+<td>Returns the sine of a number</td>
+</tr>
+<tr>
+<td>math.sinh()</td>
+<td>Returns the hyperbolic sine of a number</td>
+</tr>
+<tr>
+<td>math.sqrt()</td>
+<td>Returns the square root of a number</td>
+</tr>
+<tr>
+<td>math.tan()</td>
+<td>Returns the tangent of a number</td>
+</tr>
+<tr>
+<td>math.tanh()</td>
+<td>Returns the hyperbolic tangent of a number</td>
+</tr>
+<tr>
+<td>math.trunc()</td>
+<td>Returns the truncated integer parts of a number</td>
+</tr>
+</tbody>
+</table>
+</br>
+<ul>
+<li><strong>Math Constants</strong></li>
+</ul></br>
+<table>
+<tbody>
+<tr>
+<th>Constant</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>math.e</td>
+<td>Returns Euler's number (2.7182...)</td>
+</tr>
+<tr>
+<td>math.inf</td>
+<td>Returns a floating-point positive infinity</td>
+</tr>
+<tr>
+<td>math.nan</td>
+<td>Returns a floating-point NaN (Not a Number) value</td>
+</tr>
+<tr>
+<td>math.pi</td>
+<td>Returns PI (3.1415...)</td>
+</tr>
+<tr>
+<td>math.tau</td>
+<td>Returns tau (6.2831...)</td>
+</tr>
+</tbody>
+</table>
+<p>The free online JavaScript beutifier organizes your scripts. Use it every time before publishing codes.</p>
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
