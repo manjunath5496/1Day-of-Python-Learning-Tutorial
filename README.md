@@ -22,7 +22,7 @@
  <li class="toclevel-1 tocsection-15"><a href="#Python Arrays"><span class="toctext">Python Arrays  </span></a></li> 
  <li class="toclevel-1 tocsection-16"><a href="#Python Classes"><span class="toctext">Python Classes </span></a></li>
  <li class="toclevel-1 tocsection-17"><a href="#Python Iterators"><span class="toctext">Python Iterators </span></a></li>
- 
+ <li class="toclevel-1 tocsection-17"><a href="#Python Math"><span class="toctext">Python Math  </span></a></li>
  
 </ul>
 
@@ -3233,9 +3233,6 @@ mystr = "newton"
 
 for x in mystr: 
     print(x)
-
-
-
 ```
 <h3> Output on the screen:</h3>
 
@@ -3250,3 +3247,67 @@ n</pre>
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id ="Python Math"> Python Math  </h2>
+
+<h3> Code: </h3>
+
+```python
+a = min(5, 10, 25)
+b = max(5, 10, 25)
+
+print(a)
+print(b)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+5
+25</pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+c = abs(-6.35)
+
+print(c)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+6.35</pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+x = pow(2, 3)
+
+print(x)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+8</pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+import math
+
+x = math.sqrt(4)
+
+print(x)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+2/pre>
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+
