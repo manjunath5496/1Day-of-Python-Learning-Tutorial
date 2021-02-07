@@ -2968,7 +2968,7 @@ Niels Bohr </pre>
 <h3> Code: </h3>
 
 ```python
-#Add one more name to the scientists array:
+# Add one more name to the scientists array:
 scientists = ["Aristotle", "Francis Bacon", "Niels Bohr"]
 scientists.append("Newton") 
 print(scientists)
