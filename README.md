@@ -21,7 +21,7 @@
    <li class="toclevel-1 tocsection-15"><a href="#Python Lambda"><span class="toctext">Python Lambda   </span></a></li> 
  <li class="toclevel-1 tocsection-15"><a href="#Python Arrays"><span class="toctext">Python Arrays  </span></a></li> 
  <li class="toclevel-1 tocsection-16"><a href="#Python Classes"><span class="toctext">Python Classes </span></a></li>
- 
+ <li class="toclevel-1 tocsection-17"><a href="#Python Iterators"><span class="toctext">Python Iterators </span></a></li>
  
  
 </ul>
@@ -3159,5 +3159,94 @@ print(p1.x)
 <pre> 
 5 </pre>
 <hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+<h2 id ="Python Iterators"> Python Iterators   </h2>
+<h3> Code: </h3>
+
+```python
+mytuple = ("bench", "pencil", "chalk")
+myit = iter(mytuple)
+
+print(next(myit))
+print(next(myit))
+print(next(myit))
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+bench
+pencil
+chalk </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+mystr = "newton"
+myit = iter(mystr)
+
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+n
+e
+w
+t
+o
+n </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+mytuple = ("bench", "board", "book")
+
+for x in mytuple: 
+   print(x)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+bench
+board
+book</pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+mystr = "newton"
+
+for x in mystr: 
+    print(x)
+
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+n
+e
+w
+t
+o
+n</pre>
+<hr>
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
