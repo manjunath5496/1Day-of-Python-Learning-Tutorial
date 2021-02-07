@@ -19,6 +19,7 @@
    <li class="toclevel-1 tocsection-13"><a href="#Python Sets"><span class="toctext">Python Sets  </span></a></li> 
   <li class="toclevel-1 tocsection-14"><a href="#Python Dictionaries"><span class="toctext">Python Dictionaries   </span></a></li> 
    <li class="toclevel-1 tocsection-15"><a href="#Python Lambda"><span class="toctext">Python Lambda   </span></a></li> 
+ <li class="toclevel-1 tocsection-15"><a href="#Python Arrays"><span class="toctext">Python Arrays  </span></a></li> 
  
  
  
@@ -2882,4 +2883,71 @@ print(mydoubler(11))
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
+<h2 id="Python Arrays"> Python Arrays  </h2>
+<h3> Code: </h3>
+
+```python
+# Create an array containing scientists names:
+scientists = ["Aristotle", "Francis Bacon", "Niels Bohr"]
+print(scientists)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['Aristotle', 'Francis Bacon', 'Niels Bohr']</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Get the value of the first array item:
+scientists = ["Aristotle", "Francis Bacon", "Niels Bohr"]
+
+x = scientists[0]
+print(x)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Aristotle</pre>
+<hr>
+
+
+<h3> Code: </h3>
+
+```python
+# Modify the value of the first array item:
+scientists = ["Aristotle", "Francis Bacon", "Niels Bohr"]
+
+scientists[0] = "Newton"
+print(scientists)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+['Newton', 'Francis Bacon', 'Niels Bohr'] </pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Return the number of elements in the scientists array:
+scientists = ["Aristotle", "Francis Bacon", "Niels Bohr"]
+
+x = len(scientists)
+print(x)
+
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+3 </pre>
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
 
