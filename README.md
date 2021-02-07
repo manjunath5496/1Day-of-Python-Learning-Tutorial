@@ -25,7 +25,7 @@
  <li class="toclevel-1 tocsection-17"><a href="#Python Math"><span class="toctext">Python Math  </span></a></li>
  <li class="toclevel-1 tocsection-18"><a href="#Python JSON"><span class="toctext">Python JSON   </span></a></li>
   <li class="toclevel-1 tocsection-18"><a href="#Python RegEx"><span class="toctext">Python RegEx  </span></a></li>
- 
+  <li class="toclevel-1 tocsection-19"><a href="#Python Try Exception"><span class="toctext">Python Try Exception  </span></a></li>
  
  
  
@@ -3648,4 +3648,49 @@ YES! We have a match!</pre>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
+<h2 id ="Python Try Exception"> Python Try Exception </h2>
 
+<h3> Code: </h3>
+
+```python
+#The try block will generate an error, because x is not defined:
+
+try:
+  print(x)
+except:
+  print("An exception occurred")
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+An exception occurred</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+#The try block will generate a NameError, because x is not defined:
+
+try:
+  print(x)
+except NameError:
+  print("Variable x is not defined")
+except:
+  print("Something else went wrong")
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Variable x is not defined</pre>
+<hr>
+
+
+
+
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
