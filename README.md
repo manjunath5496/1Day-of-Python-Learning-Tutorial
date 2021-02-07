@@ -3305,7 +3305,7 @@ print(x)
 <h3> Output on the screen:</h3>
 
 <pre> 
-2/pre>
+2</pre>
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
