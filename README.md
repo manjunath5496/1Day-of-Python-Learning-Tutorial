@@ -23,6 +23,11 @@
  <li class="toclevel-1 tocsection-16"><a href="#Python Classes"><span class="toctext">Python Classes </span></a></li>
  <li class="toclevel-1 tocsection-17"><a href="#Python Iterators"><span class="toctext">Python Iterators </span></a></li>
  <li class="toclevel-1 tocsection-17"><a href="#Python Math"><span class="toctext">Python Math  </span></a></li>
+ <li class="toclevel-1 tocsection-18"><a href="#Python JSON"><span class="toctext">Python JSON   </span></a></li>
+  <li class="toclevel-1 tocsection-18"><a href="#Python RegEx"><span class="toctext">Python RegEx  </span></a></li>
+ 
+ 
+ 
  
 </ul>
 
@@ -3588,6 +3593,58 @@ print(a)
 </table>
 <hr>
 
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+<h2 id ="Python JSON"> Python JSON  </h2>
+
+<h3> Code: </h3>
+
+```python
+import json
+
+# some JSON:
+a = '{ "name":"Albert", "age":21, "city":"Germany"}'
+
+# parse x:
+b = json.loads(a)
+
+# the result is a Python dictionary:
+print(b["age"])
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+21</pre>
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+<h2 id ="Python RegEx"> Python RegEx </h2>
+
+<h3> Code: </h3>
+
+```python
+import re
+
+#Check if the string starts with "The" and ends with "Bangalore":
+
+txt = "The rain in Bangalore"
+x = re.search("^The.*Bangalore$", txt)
+
+if x:
+  print("YES! We have a match!")
+else:
+  print("No match")
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+YES! We have a match!</pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
