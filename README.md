@@ -2679,6 +2679,138 @@ print(thisdict)
 <pre> 
 {} </pre>
 <hr>
+</br>
+
+<ul>
+<li style="margin-top: 7.1pt;"><strong><span style="color: #000009;">Python Dictionary Methods</span></strong></li>
+</ul>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td width="111">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Method</strong></p>
+</td>
+<td width="526">
+<p><strong>&nbsp;</strong></p>
+<p><strong>Description</strong></p>
+</td>
+</tr>
+<tr>
+<td width="111">
+<p><strong>&nbsp;</strong></p>
+<p>clear()</p>
+</td>
+<td width="526">
+<p><strong>&nbsp;</strong></p>
+<p>Removes all the elements from the dictionary</p>
+</td>
+</tr>
+<tr>
+<td width="111">
+<p><strong>&nbsp;</strong></p>
+<p>copy()</p>
+</td>
+<td width="526">
+<p><strong>&nbsp;</strong></p>
+<p>Returns a copy of the dictionary</p>
+</td>
+</tr>
+<tr>
+<td width="111">
+<p><strong>&nbsp;</strong></p>
+<p>fromkeys()</p>
+</td>
+<td width="526">
+<p><strong>&nbsp;</strong></p>
+<p>Returns a dictionary with the specified keys and value</p>
+</td>
+</tr>
+<tr>
+<td width="111">
+<p><strong>&nbsp;</strong></p>
+<p>get()</p>
+</td>
+<td width="526">
+<p><strong>&nbsp;</strong></p>
+<p>Returns the value of the specified key</p>
+</td>
+</tr>
+<tr>
+<td width="111">
+<p><strong>&nbsp;</strong></p>
+<p>items()</p>
+</td>
+<td width="526">
+<p><strong>&nbsp;</strong></p>
+<p>Returns a list containing a tuple for each key value pair</p>
+</td>
+</tr>
+<tr>
+<td width="111">
+<p><strong>&nbsp;</strong></p>
+<p>keys()</p>
+</td>
+<td width="526">
+<p><strong>&nbsp;</strong></p>
+<p>Returns a list containing the dictionary's keys</p>
+</td>
+</tr>
+<tr>
+<td width="111">
+<p><strong>&nbsp;</strong></p>
+<p>pop()</p>
+</td>
+<td width="526">
+<p><strong>&nbsp;</strong></p>
+<p>Removes the element with the specified key</p>
+</td>
+</tr>
+<tr>
+<td width="111">
+<p><strong>&nbsp;</strong></p>
+<p>popitem()</p>
+</td>
+<td width="526">
+<p><strong>&nbsp;</strong></p>
+<p>Removes the last inserted key-value pair</p>
+</td>
+</tr>
+<tr>
+<td width="111">
+<p><strong>&nbsp;</strong></p>
+<p>setdefault()</p>
+</td>
+<td width="526">
+<p><strong>&nbsp;</strong></p>
+<p>Returns the value of the specified key. If the key does not exist: insert the key, with the specified value</p>
+</td>
+</tr>
+<tr>
+<td width="111">
+<p><strong>&nbsp;</strong></p>
+<p>update()</p>
+</td>
+<td width="526">
+<p><strong>&nbsp;</strong></p>
+<p>Updates the dictionary with the specified key-value pairs</p>
+</td>
+</tr>
+<tr>
+<td width="111">
+<p><strong>&nbsp;</strong></p>
+<p>values()</p>
+</td>
+<td width="526">
+<p><strong>&nbsp;</strong></p>
+<p>Returns a list of all the values in the dictionary</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
