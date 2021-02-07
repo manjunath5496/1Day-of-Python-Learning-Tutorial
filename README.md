@@ -26,7 +26,7 @@
  <li class="toclevel-1 tocsection-18"><a href="#Python JSON"><span class="toctext">Python JSON   </span></a></li>
   <li class="toclevel-1 tocsection-18"><a href="#Python RegEx"><span class="toctext">Python RegEx  </span></a></li>
   <li class="toclevel-1 tocsection-19"><a href="#Python Try Exception"><span class="toctext">Python Try Exception  </span></a></li>
- 
+  <li class="toclevel-1 tocsection-20"><a href="#Python String Formatting"><span class="toctext">Python String Formatting   </span></a></li>
  
  
 </ul>
@@ -3687,10 +3687,55 @@ except:
 Variable x is not defined</pre>
 <hr>
 
+<h3> Code: </h3>
+
+```python
+#The try block will generate a NameError, because x is not defined:
+
+try:
+  print(x)
+except NameError:
+  print("Variable x is not defined")
+except:
+  print("Something else went wrong")
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Variable x is not defined</pre>
+<hr>
+
+<h2 id ="Python String Formatting"> Python String Formatting  </h2>
+
+<h3> Code: </h3>
+
+```python
+cost = 56
+txt = "The cost is {} Rupees"
+print(txt.format(cost))
 
 
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+The cost is 56 Rupees</pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+cost = 56
+txt = "The cost is {:.2f} Rupees"
+print(txt.format(cost))
 
 
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+The cost is 56.00 Rupees</pre>
+<hr>
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
