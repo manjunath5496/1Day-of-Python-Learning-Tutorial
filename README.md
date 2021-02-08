@@ -32,7 +32,7 @@
  <li class="toclevel-1 tocsection-23"><a href="#Python User Input"><span class="toctext">Python User Input </span></a></li>
  <li class="toclevel-1 tocsection-24"><a href="#File Handling"><span class="toctext">File Handling </span></a></li>
   <li class="toclevel-1 tocsection-25"><a href="#Python Datetime"><span class="toctext">Python Datetime </span></a></li>
- 
+  <li class="toclevel-1 tocsection-26"><a href="#Python NumPy"><span class="toctext">Python NumPy  </span></a></li>
  
 </ul>
 
@@ -4336,6 +4336,35 @@ Monday</pre>
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id ="Python NumPy"> Python NumPy </h2>
+<h3> Code: </h3>
+
+```python
+import numpy
+arr = numpy.array([1, 2, 3, 4, 5]) 
+print(arr)
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+[1 2 3 4 5]</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+import numpy as np
+arr = np.array([1, 2, 3, 4, 5]) 
+print(arr)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+[1 2 3 4 5]</pre>
+<hr>
 
 
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
 
