@@ -27,7 +27,9 @@
   <li class="toclevel-1 tocsection-18"><a href="#Python RegEx"><span class="toctext">Python RegEx  </span></a></li>
   <li class="toclevel-1 tocsection-19"><a href="#Python Try Exception"><span class="toctext">Python Try Exception  </span></a></li>
   <li class="toclevel-1 tocsection-20"><a href="#Python String Formatting"><span class="toctext">Python String Formatting   </span></a></li>
- <li class="toclevel-1 tocsection-21"><a href="#Python If ... Else "><span class="toctext">Python If ... Else   </span></a></li>
+ <li class="toclevel-1 tocsection-21"><a href="#Python If ... Else"><span class="toctext">Python If ... Else   </span></a></li>
+ <li class="toclevel-1 tocsection-22"><a href="#Python Loops"><span class="toctext">Python Loops </span></a></li>
+ 
  
 </ul>
 
@@ -3795,7 +3797,100 @@ a and b are equal</pre>
 </br>
 
 
+<h2 id ="Python Loops"> Python Loops  </h2>
+<h3> Code: </h3>
 
+```python
+items = ["pencil", "rubber", "chalk"]
+for x in items:
+  print(x) 
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+pencil
+rubber
+chalk</pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+items = ["pencil", "rubber", "chalk"]
+for x in items:
+  print(x)
+  if x == "rubber": 
+   break
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+pencil
+rubber</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Exit the loop when x is "rubber", but this time the break comes before the print:
+items = ["pencil", "rubber", "chalk"]
+for x in items:
+  if x == "rubber":
+    break
+  print(x) 
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+pencil
+</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Do not print rubber:
+items = ["pencil", "rubber", "chalk"]
+for x in items:
+  if x == "rubber":
+    continue
+  print(x) 
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+pencil
+chalk
+</pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+# The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and ends at a specified number: range(5) is not the values of 0 to 5, but the values 0 to 4.
+
+for x in range(5):
+  print(x) 
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+0
+1
+2
+3
+4</pre>
+<hr>
+
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
 
 
 
