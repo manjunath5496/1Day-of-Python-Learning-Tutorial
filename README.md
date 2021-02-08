@@ -27,7 +27,7 @@
   <li class="toclevel-1 tocsection-18"><a href="#Python RegEx"><span class="toctext">Python RegEx  </span></a></li>
   <li class="toclevel-1 tocsection-19"><a href="#Python Try Exception"><span class="toctext">Python Try Exception  </span></a></li>
   <li class="toclevel-1 tocsection-20"><a href="#Python String Formatting"><span class="toctext">Python String Formatting   </span></a></li>
- 
+ <li class="toclevel-1 tocsection-21"><a href="#Python If ... Else "><span class="toctext">Python If ... Else   </span></a></li>
  
 </ul>
 
@@ -3754,3 +3754,50 @@ His name is Albert. Albert is 16 years old.</pre>
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id ="Python If ... Else"> Python If ... Else </h2>
+<h3> Code: </h3>
+
+```python
+a = 40
+b = 60
+
+if b > a:
+  print("b is greater than a")
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+b is greater than a</pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+a = 30
+b = 30
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+else:
+  print("a is greater than b")
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+a and b are equal</pre>
+<hr>
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+
+
+
+
+
+
+
