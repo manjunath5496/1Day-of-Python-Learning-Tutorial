@@ -30,7 +30,7 @@
  <li class="toclevel-1 tocsection-21"><a href="#Python If ... Else"><span class="toctext">Python If ... Else   </span></a></li>
  <li class="toclevel-1 tocsection-22"><a href="#Python Loops"><span class="toctext">Python Loops </span></a></li>
  <li class="toclevel-1 tocsection-23"><a href="#Python User Input"><span class="toctext">Python User Input </span></a></li>
- 
+ <li class="toclevel-1 tocsection-24"><a href="#File Handling"><span class="toctext">File Handling </span></a></li>
 </ul>
 
 </br>
@@ -4127,4 +4127,26 @@ will be outputted on the console screen.
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id ="File Handling"> File Handling </h2>
+<h3> Code: </h3>
+
+```python
+import os
+if os.path.exists("demofile.txt"): os.remove("demofile.txt")
+else:
+  print("The file does not exist")
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+The file does not exist</pre>
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+
+
+
+
 
