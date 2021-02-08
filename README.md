@@ -29,7 +29,7 @@
   <li class="toclevel-1 tocsection-20"><a href="#Python String Formatting"><span class="toctext">Python String Formatting   </span></a></li>
  <li class="toclevel-1 tocsection-21"><a href="#Python If ... Else"><span class="toctext">Python If ... Else   </span></a></li>
  <li class="toclevel-1 tocsection-22"><a href="#Python Loops"><span class="toctext">Python Loops </span></a></li>
- 
+ <li class="toclevel-1 tocsection-23"><a href="#Python User Input"><span class="toctext">Python User Input </span></a></li>
  
 </ul>
 
@@ -4100,8 +4100,30 @@ i is no longer less than 6</pre>
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id ="Python User Input"> Python User Input</h2>
+
+<h3> Code: </h3>
+
+```python
+# The following example asks for the username, and when you entered the username, 
+# it gets printed on the screen:
+
+username = input("Enter username:")
+print("Username is: " + username)
 
 
+```
+<h3> Output on the screen:</h3>
 
+<pre> 
+Enter username:
+
+If you enter the word "ram"
+
+Username is: ram
+
+will be outputted on the console screen.
+</pre>
+<hr>
 
 
