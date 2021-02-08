@@ -3888,6 +3888,214 @@ for x in range(5):
 4</pre>
 <hr>
 
+<h3> Code: </h3>
+
+```python
+# range(1, 5), which means values from 1 to 5 (but not including 5):
+for x in range(1, 5):
+  print(x) 
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+1
+2
+3
+4</pre>
+<hr>
+<h3> Code: </h3>
+
+```python
+# Increment the sequence with 2:
+for x in range(2, 10, 2):
+  print(x) 
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+2
+4
+6
+8</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Print all numbers from 0 to 4 (but not including 4), 
+# and print a message when the loop has ended:
+
+for x in range(4):
+  print(x)
+else:
+  print("Finally finished!")
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+0
+1
+2
+3
+Finally finished!</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+for x in range(5):
+  if x == 3: break
+  print(x)
+else:
+  print("Finally finished!")
+
+#If the loop breaks, the else block is not executed.
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+0
+1
+2</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+adj = ["red", "big", "best"]
+items = ["chalk", "board", "pencil"]
+
+for x in adj:
+  for y in items:
+    print(x, y).
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+red chalk
+red board
+red pencil
+big chalk
+big board
+big pencil
+best chalk
+best board
+best pencil</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# for loops cannot be empty, but if you for some reason 
+# have a for loop with no content, put in the pass statement 
+# to avoid getting an error.
+
+for x in [0, 1, 2]:
+  pass
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Print i as long as i is less than 5:
+i = 0
+while i < 5:
+  print(i)
+  i += 1
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+0
+1
+2
+3
+4</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Exit the loop when i is 3:
+i = 1
+while i < 5:
+  print(i)
+  if (i == 3):
+    break
+  i += 1
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+1
+2
+3</pre>
+<hr>
+
+<h3> Code: </h3>
+
+```python
+# Continue to the next iteration if i is 3:
+
+i = 0
+while i < 6:
+  i += 1
+  if i == 3:
+    continue
+  print(i)
+
+# Note that number 3 is missing in the result
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+1
+2
+4
+5
+6</pre>
+<hr>
+
+
+<h3> Code: </h3>
+
+```python
+# Print a message once the condition is false:
+
+i = 1
+while i < 6:
+  print(i)
+  i += 1
+else:
+  print("i is no longer less than 6")
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+1
+2
+3
+4
+5
+i is no longer less than 6</pre>
+<hr>
 
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
