@@ -3870,7 +3870,8 @@ chalk
 <h3> Code: </h3>
 
 ```python
-# The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and ends at a specified number: range(5) is not the values of 0 to 5, but the values 0 to 4.
+# The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), 
+and ends at a specified number: range(5) is not the values of 0 to 5, but the values 0 to 4.
 
 for x in range(5):
   print(x) 
