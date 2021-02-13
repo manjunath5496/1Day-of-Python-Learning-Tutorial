@@ -5195,6 +5195,51 @@ print(arr)
 [1 2 3 4 5]</pre>
 <hr>
 
+<h3> Code: </h3>
+
+```python
+# Join two arrays
+
+import numpy as np
+
+x = np.array([4, 5, 6])
+
+y = np.array([7, 8, 9])
+
+z = np.concatenate((x, y))
+
+print(z)
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+[4 5 6 7 8 9]</pre>
+<hr>
+
+
+<h3> Code: </h3>
+
+```python
+# Split the array in 3 parts:
+
+import numpy as np
+
+x = np.array([1, 2, 3, 4, 5, 6])
+
+y = np.array_split(x, 3)
+
+print(y)
+
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+[array([1, 2]), array([3, 4]), array([5, 6])]</pre>
+<hr>
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
