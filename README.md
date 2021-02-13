@@ -31,6 +31,7 @@
  <li class="toclevel-1 tocsection-22"><a href="#Python Loops"><span class="toctext">Python Loops </span></a></li>
  <li class="toclevel-1 tocsection-23"><a href="#Python User Input"><span class="toctext">Python User Input </span></a></li>
  <li class="toclevel-1 tocsection-24"><a href="#File Handling"><span class="toctext">File Handling </span></a></li>
+ <li class="toclevel-1 tocsection-24a"><a href="#Python PIP"><span class="toctext">Python PIP </span></a></li>
   <li class="toclevel-1 tocsection-25"><a href="#Python Datetime"><span class="toctext">Python Datetime </span></a></li>
   <li class="toclevel-1 tocsection-26"><a href="#Python NumPy"><span class="toctext">Python NumPy  </span></a></li>
   <li class="toclevel-1 tocsection-27"><a href="#Python Papers"><span class="toctext">Python Papers </span></a></li>
@@ -4180,6 +4181,37 @@ The file does not exist</pre>
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+
+
+  <h2 id="Python PIP"> Python PIP </h2>
+  
+  
+  <h3> Code: </h3>
+
+```python
+# pip is the standard package manager for Python. 
+# We use pip to install additional packages that are not 
+# available in the Python standard library.
+pip install numpy
+```
+
+<br>
+<hr>
+
+  <h3> Code: </h3>
+
+```python
+# Display package information 
+pip show numpy
+```
+
+<br>
+<hr>
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+
 <h2 id ="Python Datetime">Python Datetime </h2>
 
 <h3> Code: </h3>
