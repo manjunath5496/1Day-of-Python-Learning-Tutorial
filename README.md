@@ -40,6 +40,8 @@
 <li class="toclevel-1 tocsection-24f"><a href="#Pandas Read JSON"><span class="toctext">Python Pandas Read JSON </span></a></li>
 <li class="toclevel-1 tocsection-24g"><a href="#Pandas Analyzing Data"><span class="toctext">Python Pandas Analyzing Data </span></a></li>
 <li class="toclevel-1 tocsection-24h"><a href="#SciPy Constants"><span class="toctext">Python SciPy Constants </span></a></li>	
+<li class="toclevel-1 tocsection-24i"><a href="#SciPy Sparse Data"><span class="toctext">Python SciPy Sparse Data </span></a></li>
+<li class="toclevel-1 tocsection-24j"><a href="#Matplotlib Plotting"><span class="toctext">Python Matplotlib Plotting </span></a></li>
   <li class="toclevel-1 tocsection-26"><a href="#Python NumPy"><span class="toctext">Python NumPy  </span></a></li>
   <li class="toclevel-1 tocsection-27"><a href="#Python Papers"><span class="toctext">Python Papers </span></a></li>
   <li class="toclevel-1 tocsection-28"><a href="#books"><span class="toctext">Python Books </span></a></li>
@@ -4954,7 +4956,94 @@ print(constants.pi)
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>  
 
+ <h2 id="SciPy Sparse Data"> Python SciPy Sparse Data</h2>
+  
+  
+  <h3> Code: </h3>
 
+```python
+# Create a CSR matrix from an array:
+
+import numpy as np
+from scipy.sparse import csr_matrix
+
+arr = np.array([0, 0, 0, 0, 0, 1, 1, 0, 2])
+
+print(csr_matrix(arr))
+
+
+```
+
+<h3> Output on the screen:</h3>
+
+<pre> 
+  (0, 5)	1
+  (0, 6)	1
+  (0, 8)	2
+</pre>
+<hr>
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+  
+  <h2 id="Matplotlib Plotting"> Python Matplotlib Plotting </h2>
+  
+  
+  <h3> Code: </h3>
+
+```python
+
+# Draw a line in a diagram from position (1, 3) to position (8, 10):
+
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+xpoints = np.array([1, 8])
+ypoints = np.array([3, 10])
+
+plt.plot(xpoints, ypoints)
+plt.show()
+
+
+```
+
+<h3> Output on the screen:</h3>
+
+<img src="2.png" alt="Matplotlib Plotting" width="252" height="372">
+
+
+<hr>
+
+  <h3> Code: </h3>
+
+```python
+
+# Draw two points in the diagram, one at position (1, 3) and one in position (8, 10):
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+xpoints = np.array([1, 8])
+ypoints = np.array([3, 10])
+
+plt.plot(xpoints, ypoints, 'o')
+plt.show()
+
+
+```
+
+<h3> Output on the screen:</h3>
+
+<img src="3.png" alt="Matplotlib Plotting" width="252" height="372">
+
+
+<hr>
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>  
 
 <h2 id ="Python NumPy"> Python NumPy </h2>
 <h3> Code: </h3>
