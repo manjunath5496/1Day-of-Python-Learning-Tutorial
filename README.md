@@ -47,7 +47,8 @@
   <li class="toclevel-1 tocsection-26"><a href="#Python NumPy"><span class="toctext">Python NumPy  </span></a></li>
   <li class="toclevel-1 tocsection-27"><a href="#Python Papers"><span class="toctext">Python Papers </span></a></li>
   <li class="toclevel-1 tocsection-28"><a href="#books"><span class="toctext">Python Books </span></a></li>
-  <li class="toclevel-1 tocsection-28"><a href="#Python Exercises"><span class="toctext">Python Exercises with Solutions [183 Exercises] </span></a></li>
+	<li class="toclevel-1 tocsection-28a"><a href="#Python MySQL"><span class="toctext">Python MySQL </span></a></li>
+  <li class="toclevel-1 tocsection-29"><a href="#Python Exercises"><span class="toctext">Python Exercises with Solutions [183 Exercises] </span></a></li>
 </ul>
 
 </br>
@@ -6002,7 +6003,66 @@ In Hydrology</a></li>
 
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
-</br></br>
+</br>
+
+<h2 id ="Python MySQL">Python MySQL </h2>
+
+ <h3> Code: </h3>
+
+```python
+# create a database named "mydata":
+import mysql.connector
+
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="myusername",
+  password="mypassword"
+)
+
+mycursor = mydb.cursor()
+
+mycursor.execute("CREATE DATABASE mydata")
+
+
+```
+<hr>
+</br>
+
+  <h3> Code: </h3>
+
+```python
+# Create a table named "students":
+import mysql.connector
+
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="yourusername",
+  password="yourpassword",
+  database="mydatabase"
+)
+
+mycursor = mydb.cursor()
+
+mycursor.execute("CREATE TABLE students (name VARCHAR(255), address VARCHAR(255))")
+
+
+```
+<hr>
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+
+
+
+
+
+
+
+
+
+
+</br>
 <h2 id="Python Exercises">Python Exercises with Solutions [183 Exercises] </h2>
 
 
