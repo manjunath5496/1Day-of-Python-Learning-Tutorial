@@ -38,7 +38,7 @@
   <li class="toclevel-1 tocsection-26"><a href="#Python NumPy"><span class="toctext">Python NumPy  </span></a></li>
   <li class="toclevel-1 tocsection-27"><a href="#Python Papers"><span class="toctext">Python Papers </span></a></li>
   <li class="toclevel-1 tocsection-28"><a href="#books"><span class="toctext">Python Books </span></a></li>
-  <li class="toclevel-1 tocsection-28"><a href="#Python Exercises"><span class="toctext">Python Exercises </span></a></li>
+  <li class="toclevel-1 tocsection-28"><a href="#Python Exercises"><span class="toctext">Python Exercises with Solutions [183 Exercises] </span></a></li>
 </ul>
 
 </br>
