@@ -3171,6 +3171,36 @@ print(p1.x)
 <pre> 
 5 </pre>
 <hr>
+
+ <h3> Code: </h3>
+
+```python
+# Create a class named Person, 
+# use the __init__() function to assign values 
+# for name and age:
+
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+p1 = Person("Albert", 56)
+
+print(p1.name)
+print(p1.age)
+```
+<h3> Output on the screen:</h3>
+
+<pre>
+Albert
+56 </pre>
+
+<hr>
+
+
+
+
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 <h2 id ="Python Iterators"> Python Iterators   </h2>
