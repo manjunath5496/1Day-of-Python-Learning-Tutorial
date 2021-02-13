@@ -3607,6 +3607,39 @@ print(a)
 </tbody>
 </table>
 </br>
+  <h3> Code: </h3>
+
+```python
+# Import math Library
+import math
+
+# Return the arc cosine of numbers
+print(math.acos(0.56))
+print(math.acos(-0.57))
+print(math.acos(0))
+print(math.acos(1))
+print(math.acos(-1))
+
+```
+
+<h3> Output on the screen:</h3>
+
+
+
+<pre> 
+0.9764105267938343
+2.1773021820079834
+1.5707963267948966
+0.0
+3.141592653589793
+</pre>
+<hr>
+
+</br>
+
+
+
+
 <ul>
 <li><strong>Math Constants</strong></li>
 </ul></br>
