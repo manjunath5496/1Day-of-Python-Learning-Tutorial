@@ -39,7 +39,7 @@
 	<li class="toclevel-1 tocsection-24e"><a href="#Pandas Series"><span class="toctext">Python Pandas Series </span></a></li>
 <li class="toclevel-1 tocsection-24f"><a href="#Pandas Read JSON"><span class="toctext">Python Pandas Read JSON </span></a></li>
 <li class="toclevel-1 tocsection-24g"><a href="#Pandas Analyzing Data"><span class="toctext">Python Pandas Analyzing Data </span></a></li>
-<li class="toclevel-1 tocsection-24f"><a href="#SciPy Constants"><span class="toctext">Python SciPy Constants </span></a></li>	
+<li class="toclevel-1 tocsection-24h"><a href="#SciPy Constants"><span class="toctext">Python SciPy Constants </span></a></li>	
   <li class="toclevel-1 tocsection-26"><a href="#Python NumPy"><span class="toctext">Python NumPy  </span></a></li>
   <li class="toclevel-1 tocsection-27"><a href="#Python Papers"><span class="toctext">Python Papers </span></a></li>
   <li class="toclevel-1 tocsection-28"><a href="#books"><span class="toctext">Python Books </span></a></li>
