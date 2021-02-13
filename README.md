@@ -34,6 +34,8 @@
   <li class="toclevel-1 tocsection-25"><a href="#Python Datetime"><span class="toctext">Python Datetime </span></a></li>
   <li class="toclevel-1 tocsection-26"><a href="#Python NumPy"><span class="toctext">Python NumPy  </span></a></li>
   <li class="toclevel-1 tocsection-27"><a href="#Python Papers"><span class="toctext">Python Papers </span></a></li>
+  <li class="toclevel-1 tocsection-28"><a href="#books"><span class="toctext">Python Books </span></a></li>
+
 </ul>
 
 </br>
@@ -5028,6 +5030,100 @@ Towards an Unsupervised Spatiotemporal Representation of Cilia Video Using A Mod
 <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/py(325).pdf" style="text-decoration:none;">Simulating X-ray Observations with Python</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/py(326).pdf" style="text-decoration:none;">Time Series Analysis in Python with statsmodels</a></li>
 </ul>
+<hr>
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+<h2 id ="books">Books</h2>
+
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(1).pdf" style="text-decoration:none;">How To Code in Python 3</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(2).pdf" style="text-decoration:none;">Python for Everybody: 
+Exploring Data Using Python 3</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(3).pdf" style="text-decoration:none;">Automate the Boring Stuff with Python: Practical Programming for Total Beginners</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(4).pdf" style="text-decoration:none;">Introduction
+to Scientific Programming with Python</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(5).pdf" style="text-decoration:none;">Python Machine Learning Projects</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(6).pdf" style="text-decoration:none;">Building Skills in Object-Oriented Design</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(7).pdf" style="text-decoration:none;">Learning Computing with Robots</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(8).pdf" style="text-decoration:none;"> Python 3 Patterns, Recipes and Idioms </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(9).pdf" style="text-decoration:none;">Programming for
+Computations – Python: A Gentle Introduction to Numerical Simulations with Python 3.6</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(10).pdf" style="text-decoration:none;">Annotated Algorithms in Python: with Applications in Physics, Biology, and Finance</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(11).pdf" style="text-decoration:none;">How to Think Like a Computer Scientist: Learning with Python</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(12).pdf" style="text-decoration:none;">The Coder's Apprentice: Learning Programming with Python 3</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(13).pdf" style="text-decoration:none;">Non-Programmer's Tutorial for Python</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(14).pdf" style="text-decoration:none;">Python and Coding Theory</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(15).pdf" style="text-decoration:none;">Hands-On Python: 
+A Tutorial Introduction for Beginners</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(16).pdf" style="text-decoration:none;">Python
+Notes for Professionals</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(17).pdf" style="text-decoration:none;">Fast Lane to Python: 
+A quick, sensible route to the joys of Python coding</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(18).pdf" style="text-decoration:none;">Programming for
+Computations – Python: A Gentle Introduction to Numerical Simulations with Python</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(19).pdf" style="text-decoration:none;">Solving PDEs in
+Python: The FEniCS Tutorial I</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(20).pdf" style="text-decoration:none;">Guide to NumPy</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(21).pdf" style="text-decoration:none;">Scipy
+Lecture Notes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(22).pdf" style="text-decoration:none;">Python Scripting for Spatial Data Processing</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(23).pdf" style="text-decoration:none;">Modeling Creativity: Case Studies in Python</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(24).pdf" style="text-decoration:none;">Python for Informatics: Exploring Information</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(25).pdf" style="text-decoration:none;">Algorithmic Problem Solving with Python</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(26).pdf" style="text-decoration:none;">Think Stats: 
+Exploratory Data Analysis in Python</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(27).pdf" style="text-decoration:none;">Think Python: 
+How to Think Like a Computer Scientist</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(28).pdf" style="text-decoration:none;">Open Data Structures (in C++)</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(29).pdf" style="text-decoration:none;">Problem Solving with Algorithms and Data Structures </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(30).pdf" style="text-decoration:none;">Think Bayes: 
+Bayesian Statistics Made Simple</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(31).pdf" style="text-decoration:none;">Programming Computer Vision with Python</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(32).pdf" style="text-decoration:none;">Python for you and me</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(33).pdf" style="text-decoration:none;">Create Your Own
+Entertainment With Raspberry Pi</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(34).pdf" style="text-decoration:none;">Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math Featuring Python</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(35).pdf" style="text-decoration:none;">A Byte of Python</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(36).pdf" style="text-decoration:none;">Think Complexity</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(37).pdf" style="text-decoration:none;">Modeling and Simulation in Python</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(38).pdf" style="text-decoration:none;">Python
+In Hydrology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(39).pdf" style="text-decoration:none;">Basic Data Analysis and More &minus; A Guided Tour Using python</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/1Day-of-Python-Learning-Tutorial/blob/master/1/pb(40).pdf" style="text-decoration:none;">Building Skills in Object-Oriented Design: Step-by-Step Construction of A Complete Application</a></li>                              
+</ul>
+
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
