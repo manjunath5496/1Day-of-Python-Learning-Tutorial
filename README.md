@@ -6048,7 +6048,53 @@ mycursor.execute("CREATE TABLE students (name VARCHAR(255), address VARCHAR(255)
 
 ```
 <hr>
+  <h3> Code: </h3>
 
+```python
+# Insert a record in the "students" table:
+import mysql.connector
+
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="yourusername",
+  password="yourpassword",
+  database="mydata"
+)
+
+mycursor = mydb.cursor()
+
+sql = "INSERT INTO students (name, address) VALUES (%s, %s)"
+val = ("Albert", "Highway 21")
+mycursor.execute(sql, val)
+
+mydb.commit()
+
+print(mycursor.rowcount, "record inserted.")
+
+```
+<hr>
+
+  <h3> Code: </h3>
+
+```python
+# Delete the table "students":
+import mysql.connector
+
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="yourusername",
+  password="yourpassword",
+  database="mydata"
+)
+
+mycursor = mydb.cursor()
+
+sql = "DROP TABLE students"
+
+mycursor.execute(sql)
+
+```
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
