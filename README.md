@@ -5032,14 +5032,12 @@ Towards an Unsupervised Spatiotemporal Representation of Cilia Video Using A Mod
 </ul>
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
-</br>
+</br></br>
 <img src="https://github.com/manjunath5496/List-of-effects/blob/main/1/1024px-CC-BY-NC-ND.svg.png" alt="Girl in a jacket" width="256" height="89">
 
 </br>
 
-
 <h2 id ="books">Books</h2>
-
 
 
 <ul>
