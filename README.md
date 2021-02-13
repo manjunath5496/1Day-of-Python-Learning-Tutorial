@@ -38,6 +38,8 @@
   <li class="toclevel-1 tocsection-25"><a href="#Python Datetime"><span class="toctext">Python Datetime </span></a></li>
 	<li class="toclevel-1 tocsection-24e"><a href="#Pandas Series"><span class="toctext">Python Pandas Series </span></a></li>
 <li class="toclevel-1 tocsection-24f"><a href="#Pandas Read JSON"><span class="toctext">Python Pandas Read JSON </span></a></li>
+<li class="toclevel-1 tocsection-24g"><a href="#Pandas Analyzing Data"><span class="toctext">Python Pandas Analyzing Data </span></a></li>
+<li class="toclevel-1 tocsection-24f"><a href="#SciPy Constants"><span class="toctext">Python SciPy Constants </span></a></li>	
   <li class="toclevel-1 tocsection-26"><a href="#Python NumPy"><span class="toctext">Python NumPy  </span></a></li>
   <li class="toclevel-1 tocsection-27"><a href="#Python Papers"><span class="toctext">Python Papers </span></a></li>
   <li class="toclevel-1 tocsection-28"><a href="#books"><span class="toctext">Python Books </span></a></li>
@@ -4890,6 +4892,68 @@ print(x.to_string())
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+
+<h2 id="Pandas Analyzing Data"> Python Pandas Analyzing Data</h2>
+  
+  
+  <h3> Code: </h3>
+
+```python
+# print the first 5 rows of the DataFrame:
+
+import pandas as pd
+
+x = pd.read_csv('data.csv')
+
+print(x.head(5))
+
+
+
+```
+
+<h3> Output on the screen:</h3>
+
+<pre> 
+   Duration  Pulse  Maxpulse  Calories
+0        60    110       130     409.1
+1        60    117       145     479.0
+2        60    103       135     340.0
+3        45    109       175     282.4
+4        45    117       148     406.0
+</pre>
+<hr>
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+  
+  <h2 id="SciPy Constants"> Python SciPy Constants </h2>
+  
+  
+  <h3> Code: </h3>
+
+```python
+# Print the constant value of PI:
+
+from scipy import constants
+
+print(constants.pi)
+
+
+```
+
+<h3> Output on the screen:</h3>
+
+<pre> 
+
+3.141592653589793</pre>
+<hr>
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>  
+
 
 
 <h2 id ="Python NumPy"> Python NumPy </h2>
