@@ -6038,7 +6038,7 @@ mydb = mysql.connector.connect(
   host="localhost",
   user="yourusername",
   password="yourpassword",
-  database="mydatabase"
+  database="mydata"
 )
 
 mycursor = mydb.cursor()
