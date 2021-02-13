@@ -32,6 +32,8 @@
  <li class="toclevel-1 tocsection-23"><a href="#Python User Input"><span class="toctext">Python User Input </span></a></li>
  <li class="toclevel-1 tocsection-24"><a href="#File Handling"><span class="toctext">File Handling </span></a></li>
  <li class="toclevel-1 tocsection-24a"><a href="#Python PIP"><span class="toctext">Python PIP </span></a></li>
+ <li class="toclevel-1 tocsection-24b"><a href="#Python Remove List Duplicates"><span class="toctext">Python Remove List Duplicates </span></a></li>
+<li class="toclevel-1 tocsection-24c"><a href="#Python Reverse a String"><span class="toctext">Python Reverse a String </span></a></li>
   <li class="toclevel-1 tocsection-25"><a href="#Python Datetime"><span class="toctext">Python Datetime </span></a></li>
   <li class="toclevel-1 tocsection-26"><a href="#Python NumPy"><span class="toctext">Python NumPy  </span></a></li>
   <li class="toclevel-1 tocsection-27"><a href="#Python Papers"><span class="toctext">Python Papers </span></a></li>
@@ -4211,6 +4213,55 @@ pip show numpy
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
+ <h2 id="Python Remove List Duplicates"> Python Remove List Duplicates </h2>
+  
+  
+  <h3> Code: </h3>
+
+```python
+# Remove Duplicates From a Python List
+
+mylist = ["a", "b", "a", "c", "c"]
+mylist = list(dict.fromkeys(mylist))
+print(mylist)
+
+```
+
+<h3> Output on the screen:</h3>
+
+<pre> 
+['a', 'b', 'c']</pre>
+<hr>
+
+<hr>
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+  
+  <h2 id="Python Reverse a String"> Python Reverse a String </h2>
+  
+  
+  <h3> Code: </h3>
+
+```python
+# Reverse the string "World":
+
+txt = "World"[::-1]
+print(txt)
+
+```
+
+<h3> Output on the screen:</h3>
+
+<pre> 
+dlroW</pre>
+<hr>
+
+<hr>
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>  
 
 <h2 id ="Python Datetime">Python Datetime </h2>
 
