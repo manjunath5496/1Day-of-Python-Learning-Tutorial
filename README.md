@@ -42,6 +42,8 @@
 <li class="toclevel-1 tocsection-24h"><a href="#SciPy Constants"><span class="toctext">Python SciPy Constants </span></a></li>	
 <li class="toclevel-1 tocsection-24i"><a href="#SciPy Sparse Data"><span class="toctext">Python SciPy Sparse Data </span></a></li>
 <li class="toclevel-1 tocsection-24j"><a href="#Matplotlib Plotting"><span class="toctext">Python Matplotlib Plotting </span></a></li>
+<li class="toclevel-1 tocsection-24k"><a href="#Matplotlib Bars"><span class="toctext">Python Matplotlib Bars </span></a></li>
+<li class="toclevel-1 tocsection-24l"><a href="#Matplotlib Pie Charts"><span class="toctext">Python Matplotlib Pie Charts </span></a></li>	
   <li class="toclevel-1 tocsection-26"><a href="#Python NumPy"><span class="toctext">Python NumPy  </span></a></li>
   <li class="toclevel-1 tocsection-27"><a href="#Python Papers"><span class="toctext">Python Papers </span></a></li>
   <li class="toclevel-1 tocsection-28"><a href="#books"><span class="toctext">Python Books </span></a></li>
@@ -5077,6 +5079,93 @@ plt.show()
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>  
+
+<h2 id="Matplotlib Bars"> Python Matplotlib Bars</h2>
+  
+  
+  <h3> Code: </h3>
+
+```python
+# Draw 4 bars:
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.array(["X", "Y", "Z", "W"])
+y = np.array([5, 9, 11, 12])
+
+plt.bar(x,y)
+plt.show()
+
+
+```
+
+<h3> Output on the screen:</h3>
+
+<img src="4.png" alt="Matplotlib Plotting" height="252" width="372">
+
+
+<hr>
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+  
+  <h2 id="Matplotlib Pie Charts"> Python Matplotlib Pie Charts </h2>
+  
+  
+  <h3> Code: </h3>
+
+```python
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+y = np.array([35, 25, 25, 15])
+mylabels = ["Apples", "Bananas", "Cherries", "Dates"]
+
+plt.pie(y, labels = mylabels)
+plt.show() 
+
+
+```
+
+<h3> Output on the screen:</h3>
+
+<img src="5.png" alt="Matplotlib Plotting" width="266" height="238">
+
+
+<hr>
+
+  <h3> Code: </h3>
+
+```python
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+y = np.array([35, 25, 25, 15])
+mylabels = ["Apples", "Bananas", "Cherries", "Dates"]
+
+plt.pie(y, labels = mylabels, startangle = 60)
+plt.show()
+
+
+
+```
+
+<h3> Output on the screen:</h3>
+
+<img src="6.png" alt="Matplotlib Plotting" width="266" height="238">
+
+
+<hr>
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>  
+
+
+
 
 <h2 id ="Python NumPy"> Python NumPy </h2>
 <h3> Code: </h3>
