@@ -5012,7 +5012,7 @@ plt.show()
 
 <h3> Output on the screen:</h3>
 
-<img src="2.png" alt="Matplotlib Plotting" width="252" height="372">
+<img src="2.png" alt="Matplotlib Plotting" width="372" height="252">
 
 
 <hr>
@@ -5037,7 +5037,7 @@ plt.show()
 
 <h3> Output on the screen:</h3>
 
-<img src="3.png" alt="Matplotlib Plotting" width="252" height="372">
+<img src="3.png" alt="Matplotlib Plotting" width="372" height="252">
 
 
 <hr>
