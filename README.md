@@ -4231,7 +4231,7 @@ print(mylist)
 
 <pre> 
 ['a', 'b', 'c']</pre>
-<hr>
+
 
 <hr>
 
@@ -4256,7 +4256,7 @@ print(txt)
 
 <pre> 
 dlroW</pre>
-<hr>
+
 
 <hr>
 
