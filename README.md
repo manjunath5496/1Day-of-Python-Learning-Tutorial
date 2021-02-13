@@ -6026,7 +6026,7 @@ mycursor.execute("CREATE DATABASE mydata")
 
 ```
 <hr>
-</br>
+
 
   <h3> Code: </h3>
 
@@ -6051,14 +6051,6 @@ mycursor.execute("CREATE TABLE students (name VARCHAR(255), address VARCHAR(255)
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
-
-
-
-
-
-
-
-
 
 
 
