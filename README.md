@@ -5242,7 +5242,7 @@ In Hydrology</a></li>
 
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
-</br>
+</br></br>
 <h2 id="Python Exercises">Python Exercises with Solutions [183 Exercises] </h2>
 
 
@@ -10043,4 +10043,7 @@ while roll_again == "yes" or roll_again == "y":
 ----------------------------------------
 
 </br>
+<hr>
 
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
