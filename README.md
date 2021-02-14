@@ -52,6 +52,7 @@
 	<li class="toclevel-1 tocsection-28a"><a href="#Python MySQL"><span class="toctext">Python MySQL </span></a></li>
 	<li class="toclevel-1 tocsection-28b"><a href="#Python Global Keyword"><span class="toctext">Python Global Keyword </span></a></li>
 	<li class="toclevel-1 tocsection-28c"><a href="#Python Raise an Exception"><span class="toctext">Python Raise an Exception </span></a></li>
+	<li class="toclevel-1 tocsection-28d"><a href="#Python Try Finally"><span class="toctext">Python Try Finally </span></a></li>
   <li class="toclevel-1 tocsection-29"><a href="#Python Exercises"><span class="toctext">Python Exercises with Solutions [183 Exercises] </span></a></li>
 </ul>
 
@@ -6282,7 +6283,35 @@ Exception: Sorry, no numbers below zero
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id="Python Try Finally"> Python Try Finally </h2>
+  
+  
+  <h3> Code: </h3>
 
+```python
+#The finally block gets executed no matter if the try block raises any errors or not:
+
+try:
+  print(z)
+except:
+  print("Something went wrong")
+finally:
+  print("The 'try except' is finished")
+
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+Something went wrong
+The 'try except' is finished
+
+</pre>
+
+<hr>
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
 </br>
 <h2 id="Python Exercises">Python Exercises with Solutions [183 Exercises] </h2>
 
