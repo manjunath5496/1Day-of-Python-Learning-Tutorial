@@ -5286,16 +5286,9 @@ print(x.text)
 ```
 <h3> Output on the screen:</h3>
 
-<pre> 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>This is a Test Page</h1>
-
-</body>
-</html>
-</pre>
+<p>&lt;!DOCTYPE html&gt;<br />&lt;html&gt;<br />&lt;body&gt;</p>
+<p>&lt;h1&gt;This is a Test Page&lt;/h1&gt;</p>
+<p>&lt;/body&gt;<br />&lt;/html&gt;</p>
 <hr>
 
 
