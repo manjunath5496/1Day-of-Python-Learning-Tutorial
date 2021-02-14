@@ -36,7 +36,7 @@
 <li class="toclevel-1 tocsection-24c"><a href="#Python Reverse a String"><span class="toctext">Python Reverse a String </span></a></li>
 <li class="toclevel-1 tocsection-24d"><a href="#Pandas Read CSV"><span class="toctext">Python Pandas Read CSV </span></a></li>	
   <li class="toclevel-1 tocsection-25"><a href="#Python Datetime"><span class="toctext">Python Datetime </span></a></li>
-	<li class="toclevel-1 tocsection-24e"><a href="#Pandas Series"><span class="toctext">Python Pandas Series </span></a></li>
+<li class="toclevel-1 tocsection-24e"><a href="#Pandas Series"><span class="toctext">Python Pandas Series </span></a></li>
 <li class="toclevel-1 tocsection-24f"><a href="#Pandas Read JSON"><span class="toctext">Python Pandas Read JSON </span></a></li>
 <li class="toclevel-1 tocsection-24g"><a href="#Pandas Analyzing Data"><span class="toctext">Python Pandas Analyzing Data </span></a></li>
 <li class="toclevel-1 tocsection-24h"><a href="#SciPy Constants"><span class="toctext">Python SciPy Constants </span></a></li>	
@@ -45,6 +45,7 @@
 <li class="toclevel-1 tocsection-24k"><a href="#Matplotlib Bars"><span class="toctext">Python Matplotlib Bars </span></a></li>
 <li class="toclevel-1 tocsection-24l"><a href="#Matplotlib Pie Charts"><span class="toctext">Python Matplotlib Pie Charts </span></a></li>
 <li class="toclevel-1 tocsection-24o"><a href="#Python Statistics"><span class="toctext">Python Statistics </span></a></li>
+<li class="toclevel-1 tocsection-24p"><a href="#Python Requests"><span class="toctext">Python Requests </span></a></li>
   <li class="toclevel-1 tocsection-26"><a href="#Python NumPy"><span class="toctext">Python NumPy  </span></a></li>
   <li class="toclevel-1 tocsection-27"><a href="#Python Papers"><span class="toctext">Python Papers </span></a></li>
   <li class="toclevel-1 tocsection-28"><a href="#books"><span class="toctext">Python Books </span></a></li>
@@ -5273,8 +5274,33 @@ print(statistics.median([-11, 5.5, -3.4, 7.1, -9, 22]))
 
 
 
+<h2 id ="Python Requests"> Python Requests </h2>
+<h3> Code: </h3>
+
+```python
+# Make a request to a web page, and print the response text:
+import requests
+x = requests.get('https://w3schools.com/python/demopage.htm')
+print(x.text)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>This is a Test Page</h1>
+
+</body>
+</html>
+</pre>
+<hr>
 
 
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
 
 
 
