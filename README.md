@@ -51,6 +51,7 @@
   <li class="toclevel-1 tocsection-28"><a href="#books"><span class="toctext">Python Books </span></a></li>
 	<li class="toclevel-1 tocsection-28a"><a href="#Python MySQL"><span class="toctext">Python MySQL </span></a></li>
 	<li class="toclevel-1 tocsection-28b"><a href="#Python Global Keyword"><span class="toctext">Python Global Keyword </span></a></li>
+	<li class="toclevel-1 tocsection-28c"><a href="#Python Raise an Exception"><span class="toctext">Python Raise an Exception </span></a></li>
   <li class="toclevel-1 tocsection-29"><a href="#Python Exercises"><span class="toctext">Python Exercises with Solutions [183 Exercises] </span></a></li>
 </ul>
 
@@ -6255,7 +6256,32 @@ print(z)
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+<h2 id="Python Raise an Exception"> Python Raise an Exception </h2>
+  
+  
+  <h3> Code: </h3>
 
+```python
+a = -2
+
+if a < 0:
+  raise Exception("Sorry, no numbers below zero")
+
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+ raise Exception("Sorry, no numbers below zero")
+
+Exception: Sorry, no numbers below zero
+
+</pre>
+
+<hr>
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
 
 </br>
 <h2 id="Python Exercises">Python Exercises with Solutions [183 Exercises] </h2>
