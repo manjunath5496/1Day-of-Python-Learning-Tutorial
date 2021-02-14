@@ -43,11 +43,13 @@
 <li class="toclevel-1 tocsection-24i"><a href="#SciPy Sparse Data"><span class="toctext">Python SciPy Sparse Data </span></a></li>
 <li class="toclevel-1 tocsection-24j"><a href="#Matplotlib Plotting"><span class="toctext">Python Matplotlib Plotting </span></a></li>
 <li class="toclevel-1 tocsection-24k"><a href="#Matplotlib Bars"><span class="toctext">Python Matplotlib Bars </span></a></li>
-<li class="toclevel-1 tocsection-24l"><a href="#Matplotlib Pie Charts"><span class="toctext">Python Matplotlib Pie Charts </span></a></li>	
+<li class="toclevel-1 tocsection-24l"><a href="#Matplotlib Pie Charts"><span class="toctext">Python Matplotlib Pie Charts </span></a></li>
+<li class="toclevel-1 tocsection-24o"><a href="#Python Statistics"><span class="toctext">Python Statistics </span></a></li>
   <li class="toclevel-1 tocsection-26"><a href="#Python NumPy"><span class="toctext">Python NumPy  </span></a></li>
   <li class="toclevel-1 tocsection-27"><a href="#Python Papers"><span class="toctext">Python Papers </span></a></li>
   <li class="toclevel-1 tocsection-28"><a href="#books"><span class="toctext">Python Books </span></a></li>
 	<li class="toclevel-1 tocsection-28a"><a href="#Python MySQL"><span class="toctext">Python MySQL </span></a></li>
+	
   <li class="toclevel-1 tocsection-29"><a href="#Python Exercises"><span class="toctext">Python Exercises with Solutions [183 Exercises] </span></a></li>
 </ul>
 
@@ -5164,6 +5166,95 @@ plt.show()
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>  
+
+<h2 id="Python Statistics"> Python Statistics </h2>
+  
+  
+  <h3> Code: </h3>
+
+```python
+# Import statistics Library
+import statistics 
+
+# Calculate the harmonic mean of the given data:
+print(statistics.harmonic_mean([20, 50, 100]))
+print(statistics.harmonic_mean([20, 40, 60, 80, 100]))
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+37.5
+43.7956204379562
+
+</pre>
+
+<hr>
+
+<ul>
+<li><strong>Statistics Methods</strong></li>
+</ul>
+</br>
+<table class="w3-table-all notranslate">
+<tbody>
+<tr>
+<th>Method</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>statistics.harmonic_mean()</td>
+<td>Calculates the harmonic mean (central location) of the given data</td>
+</tr>
+<tr>
+<td>statistics.mean()</td>
+<td>Calculates the mean (average) of the given data</td>
+</tr>
+<tr>
+<td>statistics.median()</td>
+<td>Calculates the median (middle value) of the given data</td>
+</tr>
+<tr>
+<td>statistics.median_grouped()</td>
+<td>Calculates the median of grouped continuous data</td>
+</tr>
+<tr>
+<td>statistics.median_high()</td>
+<td>Calculates the high median of the given data</td>
+</tr>
+<tr>
+<td>statistics.median_low()</td>
+<td>Calculates the low median of the given data</td>
+</tr>
+<tr>
+<td>statistics.mode()</td>
+<td>Calculates the mode (central tendency) of the given numeric or nominal data</td>
+</tr>
+<tr>
+<td>statistics.pstdev()</td>
+<td>Calculates the standard deviation from an entire population</td>
+</tr>
+<tr>
+<td>statistics.stdev()</td>
+<td>Calculates the standard deviation from a sample of data</td>
+</tr>
+<tr>
+<td>statistics.pvariance()</td>
+<td>Calculates the variance of an entire population</td>
+</tr>
+<tr>
+<td>statistics.variance()</td>
+<td>Calculates the variance from a sample of data</td>
+</tr>
+</tbody>
+</table>
+<hr>
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+
+
+
+
 
 
 
