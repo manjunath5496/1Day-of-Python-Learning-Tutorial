@@ -5373,7 +5373,27 @@ print(y)
 <pre> 
 [array([1, 2]), array([3, 4]), array([5, 6])]</pre>
 <hr>
+<h3> Code: </h3>
 
+```python
+# Use the NumPy std() method to find the standard deviation:
+
+import numpy
+
+y = [86,87,88,86,87,85,86]
+
+x = numpy.std(y)
+
+print(x)
+
+
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+0.9035079029052513</pre>
+<hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 <h2 id ="Python Papers"> Python Papers </h2>
