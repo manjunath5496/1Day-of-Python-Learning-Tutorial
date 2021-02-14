@@ -50,7 +50,7 @@
   <li class="toclevel-1 tocsection-27"><a href="#Python Papers"><span class="toctext">Python Papers </span></a></li>
   <li class="toclevel-1 tocsection-28"><a href="#books"><span class="toctext">Python Books </span></a></li>
 	<li class="toclevel-1 tocsection-28a"><a href="#Python MySQL"><span class="toctext">Python MySQL </span></a></li>
-	
+	<li class="toclevel-1 tocsection-28b"><a href="#Python Global Keyword"><span class="toctext">Python Global Keyword </span></a></li>
   <li class="toclevel-1 tocsection-29"><a href="#Python Exercises"><span class="toctext">Python Exercises with Solutions [183 Exercises] </span></a></li>
 </ul>
 
@@ -6228,6 +6228,33 @@ mycursor.execute(sql)
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 
+<h2 id="Python Global Keyword"> Python Global Keyword </h2>
+  
+  
+  <h3> Code: </h3>
+
+```python
+def myfunc():
+  global z
+  z = 5
+
+myfunc()
+
+print(z)
+
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+5
+
+</pre>
+
+<hr>
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
 
 
 </br>
