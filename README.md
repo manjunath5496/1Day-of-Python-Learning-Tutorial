@@ -5190,6 +5190,26 @@ print(statistics.harmonic_mean([20, 40, 60, 80, 100]))
 
 <hr>
 
+  <h3> Code: </h3>
+
+```python
+# Import statistics Library
+import statistics 
+
+# Calculate the median (middle value) of the given data:
+print(statistics.median([1, 3, 5, 7, 9, 11, 13]))
+print(statistics.median([-11, 5.5, -3.4, 7.1, -9, 22]))
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+7
+1.05
+
+</pre>
+
+<hr>
+
 <ul>
 <li><strong>Statistics Methods</strong></li>
 </ul>
