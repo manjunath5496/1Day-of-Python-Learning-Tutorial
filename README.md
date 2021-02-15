@@ -6500,7 +6500,24 @@ print (cmath.acos(3+2j))
 </tr>
 </tbody>
 </table>
+</br>
 
+  <h3> Code: </h3>
+
+```python
+#Import cmath Library
+import cmath
+
+# Print complex infinity
+print (cmath.infj)
+
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+infj
+
+</pre>
 
 
 <hr>
@@ -6508,19 +6525,6 @@ print (cmath.acos(3+2j))
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </br>
