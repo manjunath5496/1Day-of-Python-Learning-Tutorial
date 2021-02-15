@@ -5395,6 +5395,37 @@ print(x)
 <pre> 
 0.9035079029052513</pre>
 <hr>
+
+  <h3> Code: </h3>
+
+```python
+# Use the NumPy percentile() method to find the percentiles:
+import numpy
+
+x = [5,31,43,48,50,41,7,11,15,39,80,82,32,2,8,6,25,36,27,61,31]
+
+y = numpy.percentile(x, 65)
+
+print(y)
+
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+39.0
+
+</pre>
+
+<hr>
+
+
+
+
+
+
+
+
+
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
 <h2 id ="Python Papers"> Python Papers </h2>
