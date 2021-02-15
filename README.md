@@ -53,6 +53,7 @@
 	<li class="toclevel-1 tocsection-28b"><a href="#Python Global Keyword"><span class="toctext">Python Global Keyword </span></a></li>
 	<li class="toclevel-1 tocsection-28c"><a href="#Python Raise an Exception"><span class="toctext">Python Raise an Exception </span></a></li>
 	<li class="toclevel-1 tocsection-28d"><a href="#Python Try Finally"><span class="toctext">Python Try Finally </span></a></li>
+	<li class="toclevel-1 tocsection-28e"><a href="#Python cmath"><span class="toctext">Python cmath  </span></a></li>
   <li class="toclevel-1 tocsection-29"><a href="#Python Exercises"><span class="toctext">Python Exercises with Solutions [183 Exercises] </span></a></li>
 </ul>
 
@@ -6332,6 +6333,196 @@ The 'try except' is finished
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+
+
+<h2 id="Python cmath"> Python cmath  </h2>
+  
+  
+  <h3> Code: </h3>
+
+```python
+#import cmath for complex number operations 
+import cmath
+
+#find the arc cosine of a complex number
+print (cmath.acos(3+2j))
+
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+(0.6061378223872937-1.9686379257930964j)
+
+</pre>
+
+<hr>
+
+<ul>
+<li><strong>cMath Methods</strong></li>
+</ul></br>
+<table class="w3-table-all notranslate">
+<tbody>
+<tr>
+<th>Method</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>cmath.acos(x)</td>
+<td>Returns the arc cosine value of x</td>
+</tr>
+<tr>
+<td>cmath.acosh(x)</td>
+<td>Returns the hyperbolic arc cosine of x</td>
+</tr>
+<tr>
+<td>cmath.asin(x)</td>
+<td>Returns the arc sine of x</td>
+</tr>
+<tr>
+<td>cmath.asinh(x)</td>
+<td>Returns the hyperbolic arc sine of x</td>
+</tr>
+<tr>
+<td>cmath.atan(x)</td>
+<td>Returns the arc tangent value of x</td>
+</tr>
+<tr>
+<td>cmath.atanh(x)</td>
+<td>Returns the hyperbolic arctangent value of x</td>
+</tr>
+<tr>
+<td>cmath.cos(x)</td>
+<td>Returns the cosine of x</td>
+</tr>
+<tr>
+<td>cmath.cosh(x)</td>
+<td>Returns the hyperbolic cosine of x</td>
+</tr>
+<tr>
+<td>cmath.exp(x)</td>
+<td>Returns the value of E<sup>x</sup>, where E is Euler's number (approximately 2.718281...), and x is the number passed to it</td>
+</tr>
+<tr>
+<td>cmath.isclose()</td>
+<td>Checks whether two values are close, or not</td>
+</tr>
+<tr>
+<td>cmath.isfinite(x)</td>
+<td>Checks whether x is a finite number</td>
+</tr>
+<tr>
+<td>cmath.isinf(x)</td>
+<td>Check whether x is a positive or negative infinty</td>
+</tr>
+<tr>
+<td>cmath.isnan(x)</td>
+<td>Checks whether x is NaN (not a number)</td>
+</tr>
+<tr>
+<td>cmath.log(x[, base])</td>
+<td>Returns the logarithm of x to the base</td>
+</tr>
+<tr>
+<td>cmath.log10(x)</td>
+<td>Returns the base-10 logarithm of x</td>
+</tr>
+<tr>
+<td>cmath.phase()</td>
+<td>Return the phase of a complex number</td>
+</tr>
+<tr>
+<td>cmath.polar()</td>
+<td>Convert a complex number to polar coordinates</td>
+</tr>
+<tr>
+<td>cmath.rect()</td>
+<td>Convert polar coordinates to rectangular form</td>
+</tr>
+<tr>
+<td>cmath.sin(x)</td>
+<td>Returns the sine of x</td>
+</tr>
+<tr>
+<td>cmath.sinh(x)</td>
+<td>Returns the hyperbolic sine of x</td>
+</tr>
+<tr>
+<td>cmath.sqrt(x)</td>
+<td>Returns the square root of x</td>
+</tr>
+<tr>
+<td>cmath.tan(x)</td>
+<td>Returns the tangent of x</td>
+</tr>
+<tr>
+<td>cmath.tanh(x)</td>
+<td>Returns the hyperbolic tangent of x</td>
+</tr>
+</tbody>
+</table>
+</br>
+<ul>
+<li><strong>cMath Constants</strong></li>
+</ul></br>
+<table class="w3-table-all notranslate">
+<tbody>
+<tr>
+<th>Constant</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>cmath.e</td>
+<td>Returns Euler's number (2.7182...)</td>
+</tr>
+<tr>
+<td>cmath.inf</td>
+<td>Returns a floating-point positive infinity value</td>
+</tr>
+<tr>
+<td>cmath.infj</td>
+<td>Returns a complex infinity value</td>
+</tr>
+<tr>
+<td>cmath.nan</td>
+<td>Returns floating-point NaN (Not a Number) value</td>
+</tr>
+<tr>
+<td>cmath.nanj</td>
+<td>Returns coplext NaN (Not a Number) value</td>
+</tr>
+<tr>
+<td>cmath.pi</td>
+<td>Returns PI (3.1415...)</td>
+</tr>
+<tr>
+<td>cmath.tau</td>
+<td>Returns tau (6.2831...)</td>
+</tr>
+</tbody>
+</table>
+
+
+
+<hr>
+
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </br>
 <h2 id="Python Exercises">Python Exercises with Solutions [183 Exercises] </h2>
 
