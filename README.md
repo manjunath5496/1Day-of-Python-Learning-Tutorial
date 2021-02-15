@@ -643,10 +643,68 @@ Python </pre>
 <br>
 <hr>
 
+  <h3> Code: </h3>
+
+```python
+# Replace a string with another string
+
+a = "Ear"
+print(a.replace("E", "F"))
+
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+Far
+
+</pre>
+
+<hr>
+
+
+  
+  <h3> Code: </h3>
+
+```python
+# Remove whitespace from the beginning or at the end of a string
+
+a = " Hear, Far! "
+print(a.strip())
+
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+Hear, Far!
+
+</pre>
+
+<hr>
+
+
+  <h3> Code: </h3>
+
+```python
+# Split a string into substrings
+x = "Hear, Far!"
+y = x.split(",")
+print(y)
+
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+['Hear', ' Far!']
+
+</pre>
+
+<hr>
+
+
 <h3> Code: </h3>
 
 ```python
-#Get the character at position 0
+# Get the character at position 0
 a = "Hello, World!"
 print(a[0])
 ```
