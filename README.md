@@ -14,6 +14,7 @@
   <li class="toclevel-1 tocsection-8"><a href="#Python Strings"><span class="toctext">Python Strings </span></a></li> 
  <li class="toclevel-1 tocsection-9"><a href="#Python Booleans"><span class="toctext">Python Booleans  </span></a></li> 
   <li class="toclevel-1 tocsection-10"><a href="#Python Operators"><span class="toctext">Python Operators  </span></a></li> 
+<li class="toclevel-1 tocsection-10a"><a href="#Python Modules"><span class="toctext">Python Modules </span></a></li> 
  <li class="toclevel-1 tocsection-11"><a href="#Python Lists"><span class="toctext">Python Lists  </span></a></li> 
   <li class="toclevel-1 tocsection-12"><a href="#Python Tuples"><span class="toctext">Python Tuples  </span></a></li> 
    <li class="toclevel-1 tocsection-13"><a href="#Python Sets"><span class="toctext">Python Sets  </span></a></li> 
@@ -1653,6 +1654,64 @@ print(a)
 <hr>
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+
+<h2 id="Python Modules"> Python Modules  </h2>
+  
+  
+  <h3> Code: </h3>
+
+```python
+# importing the module 
+import wikipedia  
+  
+# finding result for the search 
+# sentences = 3 refers to numbers of line 
+result = wikipedia.summary("Python (programming language)", sentences = 3)  
+  
+# printing the result 
+print(result)  
+
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+Python is an interpreted, high-level and general-purpose programming language. 
+Python's design philosophy emphasizes code readability with its notable use of significant whitespace. 
+Its language constructs and object-oriented approach aim to help programmers write clear, logical code 
+for small and large-scale projects.Python is dynamically-typed and garbage-collected.
+
+</pre>
+
+<hr>
+
+
+  
+  <h3> Code: </h3>
+
+```python
+# importing the module 
+import wikipedia 
+  
+# getting suggestions 
+result = wikipedia.search("Python", results = 4) 
+  
+# printing the result 
+print(result) 
+
+
+```
+<h3> Output on the screen:</h3>
+<pre>
+['Python (programming language)', 'Python', 'Monty Python', 'Burmese python']
+
+</pre>
+
+<hr>
+
+<a href="#back"><span class="toctext">&#8593;Back</span></a>
+</br>
+
+
 <h2 id ="Python Lists"> Python Lists </h2>
 
 <h3> Code: </h3>
