@@ -11554,7 +11554,18 @@ After Swapping
 2 3</pre>
 <hr>
 
+<h3> We can know about Python version: </h3>
 
+```python
+import sys 
+print("My Python version Number: {}".format(sys.version))
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+My Python version Number: 3.7.3 (default, Mar 27 2019, 17:13:21) [MSC v.1915 64 bit (AMD64)]</pre>
+<hr>
 
 
 
