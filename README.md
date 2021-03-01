@@ -11567,7 +11567,23 @@ print("My Python version Number: {}".format(sys.version))
 My Python version Number: 3.7.3 (default, Mar 27 2019, 17:13:21) [MSC v.1915 64 bit (AMD64)]</pre>
 <hr>
 
+<h3> We can Store all values of List in new separate variables: </h3>
 
+```python
+x = [1, 2, 3] 
+a, b, c = x  
+print(a) 
+print(b) 
+print(c)
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+1
+2
+3</pre>
+<hr>
 
 
 
