@@ -11585,5 +11585,17 @@ print(c)
 3</pre>
 <hr>
 
+<h3> We can convert nested list into one list: </h3>
 
+```python
+import itertools  
+x = [[1, 2], [3, 4], [5, 6]] 
+print(list(itertools.chain.from_iterable(x))) 
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+[1, 2, 3, 4, 5, 6]</pre>
+<hr>
 
