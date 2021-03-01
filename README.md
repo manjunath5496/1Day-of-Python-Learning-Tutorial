@@ -11599,3 +11599,18 @@ print(list(itertools.chain.from_iterable(x)))
 [1, 2, 3, 4, 5, 6]</pre>
 <hr>
 
+<h3> We can transpose a Matrix: </h3>
+
+```python
+import numpy as np          
+x = np.matrix('[5, 1; 14, 2]')             
+y = x.transpose()   
+print(y) 
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+[[ 5 14]
+ [ 1  2]]</pre>
+<hr>
