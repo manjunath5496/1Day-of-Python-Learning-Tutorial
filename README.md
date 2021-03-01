@@ -56,7 +56,7 @@
 	<li class="toclevel-1 tocsection-28d"><a href="#Python Try Finally"><span class="toctext">Python Try Finally </span></a></li>
 	<li class="toclevel-1 tocsection-28e"><a href="#Python cmath"><span class="toctext">Python cmath  </span></a></li>
   <li class="toclevel-1 tocsection-29"><a href="#Python Exercises"><span class="toctext">Python Exercises with Solutions [183 Exercises] </span></a></li>
-<li class="toclevel-1 tocsection-30"><a href="#10 Interesting Python Facts"><span class="toctext">10 Interesting Python Facts </span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#9 Interesting Python Facts"><span class="toctext">9 Interesting Python Facts </span></a></li>
 
 	
 	
@@ -11484,8 +11484,8 @@ while roll_again == "yes" or roll_again == "y":
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
-
-<h2 id="10 Interesting Python Facts"> 10 Interesting Python Facts </h2>
+</br>
+<h2 id="9 Interesting Python Facts"> 9 Interesting Python Facts </h2>
 
 <h3> In python we can return multiple values: </h3>
 
