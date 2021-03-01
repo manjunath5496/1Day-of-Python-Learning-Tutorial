@@ -11614,3 +11614,22 @@ print(y)
 [[ 5 14]
  [ 1  2]]</pre>
 <hr>
+
+<h3> We can create small anonymous function: </h3>
+
+```python
+x = lambda a, b, c : a + b + c
+
+print(x(5, 6, 3))
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+14</pre>
+<hr>
+
+
+
+
+
