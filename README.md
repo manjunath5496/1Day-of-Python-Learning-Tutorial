@@ -11518,7 +11518,41 @@ print(my_list[-2])
 orange</pre>
 <hr>
 
+<h3> Combine Multiple Strings: </h3>
 
+```python
+my_list = ['I', 'Love', 'Python'] 
+print(''.join(my_list)) 
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+ILovePython</pre>
+<hr>
+
+<h3> We can swap two objects in Python: </h3>
+
+```python
+a = 3
+b = 2
+  
+print('Before Swapping') 
+print(a, b) 
+  
+a, b = b, a 
+print('After Swapping') 
+print(a, b)  
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+Before Swapping
+3 2
+After Swapping
+2 3</pre>
+<hr>
 
 
 
