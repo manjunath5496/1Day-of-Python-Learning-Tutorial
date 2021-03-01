@@ -56,6 +56,10 @@
 	<li class="toclevel-1 tocsection-28d"><a href="#Python Try Finally"><span class="toctext">Python Try Finally </span></a></li>
 	<li class="toclevel-1 tocsection-28e"><a href="#Python cmath"><span class="toctext">Python cmath  </span></a></li>
   <li class="toclevel-1 tocsection-29"><a href="#Python Exercises"><span class="toctext">Python Exercises with Solutions [183 Exercises] </span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#10 Interesting Python Facts"><span class="toctext">10 Interesting Python Facts </span></a></li>
+
+	
+	
 </ul>
 
 </br>
@@ -11480,3 +11484,45 @@ while roll_again == "yes" or roll_again == "y":
 
 <a href="#back"><span class="toctext">&#8593;Back</span></a>
 </br>
+
+<h2> 10 Interesting Python Facts </h2>
+
+<h3> In python we can return multiple values: </h3>
+
+
+```python
+def XYZ(): 
+    p = 3 
+    q = 2
+    return p, q  
+  
+a, b = XYZ() 
+print(a, b) 
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+3 2</pre>
+<hr>
+<h3> Allows Negative Indexing: </h3>
+
+```python
+my_list = ['apple', 'orange', 'grapes'] 
+print(my_list[-2]) 
+
+```
+<h3> Output on the screen:</h3>
+
+<pre> 
+orange</pre>
+<hr>
+
+
+
+
+
+
+
+
+
